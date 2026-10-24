@@ -1,10 +1,35 @@
-# A university mentoring programme
+# Remote work: argumentative essay
 
-**Prompt:** To what extent do you agree that this issue deserves more attention?
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
-There is a strong case for giving a university mentoring programme greater attention, although investment should be tied to clear outcomes. When a policy addresses a genuine need, it can improve access and create benefits beyond the immediate users.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Before writing
 
-In conclusion, a university mentoring programme can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The essay takes a clear position, develops two distinct reasons, and addresses a reasonable opposing view.
 
----
+## Essay structure
+
+The argument moves from the claim to supporting reasoning and then to a qualified response.
+
+## Introduction and thesis
+
+Debate about remote work often centres on competing priorities. On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
+
+## Main argument 1
+
+Remote work can reduce commuting time and give employees more control over their working environment. For tasks requiring concentration, fewer office interruptions may help people organise their day. It can also widen access to jobs for people who live far from a central office or need a more flexible routine.
+
+## Main argument 2
+
+However, remote work can make informal learning and collaboration harder, especially for new employees. People may also have unequal home working conditions, and blurred boundaries can lead to longer working hours. These disadvantages depend on how well the organisation supports remote staff. This shows why the policy should be designed around actual circumstances rather than treated as a simple universal rule.
+
+## Counterargument and response
+
+Critics are right that not every task can be done remotely and that some workers value direct contact. This argues for a role-sensitive approach rather than a universal rule.
+
+## Conclusion
+
+On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
+
+## Final IELTS checklist
+
+Check that each paragraph advances the argument, examples support the point, and the conclusion follows from the discussion. Follow the exact prompt and word limit.

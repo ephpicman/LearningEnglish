@@ -1,17 +1,45 @@
-# A workplace policy
+# Briefing document: Community workshop venue
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A workplace policy
+*Illustrative internal briefing. Confirm current status and owners before circulation.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a workplace policy remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document structure
 
----
+This briefing separates known context from the recommendation and identifies what remains unresolved.
+
+## Document metadata
+
+- **Date:** 21 November 2026
+- **Owner:** Priya Nair
+- **Subject:** Community workshop venue
+
+## Purpose and key message
+
+Confirm the venue and access arrangements before promoting the community workshop. Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+
+## Background and current position
+
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability.
+
+## Options or analysis
+
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
+
+## Recommendation and rationale
+
+Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+
+## Actions, owners, and deadlines
+
+Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November.
+
+## Final quality check
+
+Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
+
+## IELTS-oriented language practice
+
+The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.

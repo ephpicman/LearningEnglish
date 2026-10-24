@@ -1,12 +1,23 @@
-# A university course
+# Follow-up on training registration
 
-**Subject:** Meeting and next steps
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
-Hello everyone,
+## Subject/thread reference
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Follow-up on training registration
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+I registered my interest in the data-protection workshop after the team announcement on Monday.
+
+## Reason for follow-up
+
+I have not yet received confirmation and would like to check whether my place has been recorded.
+
+## Update or question
+
+Could you confirm the registration status and share the joining details when they are available? If the session is full, I would be happy to join a waiting list for a later date.
+
+## Next step and close
+
+Thank you. Regards, Amira

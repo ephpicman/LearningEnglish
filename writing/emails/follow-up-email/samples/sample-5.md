@@ -1,12 +1,23 @@
-# A workplace policy
+# Following up on maintenance visit
 
-**Subject:** Thank you for your support
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
-Dear Jordan,
+## Subject/thread reference
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+Following up on maintenance visit
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+I reported the leaking tap in apartment 3B on 12 October and received an acknowledgement that the request had been logged.
+
+## Reason for follow-up
+
+I am checking on the appointment because the leak has slowed but has not stopped completely.
+
+## Update or question
+
+Could you let me know the expected visit window or whether you need any further details? The local valve remains closed while I wait.
+
+## Next step and close
+
+Thank you for the update. Kind regards, Alex

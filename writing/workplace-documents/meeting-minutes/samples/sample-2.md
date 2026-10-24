@@ -1,19 +1,32 @@
-# A missed project deadline
+# Meeting minutes: New request intake process
 
-**Meeting:** Weekly Delivery Review  
-**Date:** 22 October 2026  
-**Attendees:** Riley Chen, Sam Patel, Alex Morgan
+## Meeting metadata and attendees
 
-## Decisions
-- Keep the pilot within the current scope.
-- Review performance against the baseline before expanding.
+- **Date:** 4 November 2026
+- **Facilitator:** Jordan Lee
+- **Attendees:** Jordan Lee, operations manager, two team leads
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
-## Actions
-- Alex: update the tracker by 27 October.
-- Sam: confirm user feedback themes by 28 October.
-- Riley: circulate the revised recommendation by 30 October.
+## Purpose / agenda
 
-## Risks
-Supplier confirmation remains outstanding. Riley will escalate if no response is received by the end of the week.
+Choose the required fields and agree how the team will handle urgent requests.
 
----
+## Discussion summary by topic
+
+The group reviewed common handoff failures and agreed that ownership and next action are the minimum required fields. Urgent requests need a separate escalation route.
+
+## Decisions made
+
+The team approved a four-week pilot for one request category; broader automation is deferred.
+
+## Action items with owner and due date
+
+- Draft queue fields — Jordan Lee — 6 November
+- Define urgent route — team leads — 5 November
+- Review pilot outcomes — operations manager — 4 December
+
+## Open issues and next meeting
+
+A single queue with required owner, status, and next-action fields would improve visibility. Immediate automation is not recommended until categories and exception routes are stable.
+
+Review meeting: 4 December, after the pilot period.

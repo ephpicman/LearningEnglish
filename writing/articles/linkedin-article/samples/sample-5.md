@@ -1,13 +1,39 @@
-# A workplace policy
+# Give feedback people can act on
 
-**Audience:** General readers interested in a workplace policy.
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
-# A workplace policy: Small Changes, Lasting Results
+## Title
 
-A workplace policy shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+**Give feedback people can act on**
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Opening hook and relevance
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+“Be more strategic” sounds important, but it does not tell someone what to do differently tomorrow.
 
----
+## Context and central argument
+
+Useful feedback connects an observable behaviour to its effect and offers a practical next step. It focuses on work that can change rather than making broad claims about a person’s character.
+
+## Key insight 1 with evidence
+
+For example, instead of saying “your updates are confusing,” identify the missing information: “In the last status note, the risk had no owner or review date. Add both fields so the team can see who is handling it and when it will be revisited.” The second version gives the recipient something testable.
+
+## Key insight 2 or counterpoint
+
+Feedback also works better as a conversation. Ask what context you may be missing, agree on the next action, and follow up after there has been a chance to try it. Specific praise matters too: explain which action helped and why, so the person can repeat it.
+
+## Practical implications
+
+Before giving feedback, write down the behaviour you observed, its impact, and one achievable next step. Remove assumptions about intent unless you have discussed them directly.
+
+## Conclusion and conversation prompt
+
+What kind of feedback has helped you make a meaningful improvement?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.

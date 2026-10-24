@@ -1,17 +1,46 @@
-# A university course
+# Internal memo: Staff training schedule
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A university course
+*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a university course remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+The memo states the purpose and requested action, then gives enough context for a decision.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document structure
 
----
+Keep the analysis proportionate to the decision being requested.
+
+## Memo header
+
+- **To:** Relevant team leads
+- **From:** Amira Hassan
+- **Date:** 9 November 2026
+- **Subject:** Staff training schedule
+
+## Purpose and requested action
+
+Confirm a training schedule that gives shift-based staff a fair opportunity to attend. The requested action is to approve the recommendation below or identify what additional information is needed.
+
+## Background and facts
+
+The initial training materials are drafted, but the proposed session times overlap with some operational shifts.
+
+## Analysis or key points
+
+Repeating the same session at different times may improve access, although it increases facilitator time. A recorded recap may help, subject to internal policy and accessibility requirements.
+
+## Recommendation or decision
+
+Offer two live sessions and provide an approved written recap for staff unable to attend.
+
+## Actions, owners, and timing
+
+Amira: propose two time slots by 11 November. Team managers: confirm coverage by 13 November. Learning lead: approve recap format by 16 November.
+
+## Final quality check
+
+Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+
+## IELTS-oriented language practice
+
+The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.

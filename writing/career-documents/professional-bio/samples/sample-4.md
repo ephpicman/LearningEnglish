@@ -1,5 +1,23 @@
-# A university course
+# Professional bio
 
-Alex Morgan is a a university course professional who helps teams turn complex plans into clear, deliverable work. Over the past four years, Alex has supported cross-functional projects, improved reporting routines and introduced practical tools that make ownership visible. Alex is interested in accessible processes, evidence-led decisions and collaborative problem-solving, and enjoys mentoring early-career colleagues.
+*Illustrative bio. Keep only details that are true of the person represented.*
 
----
+## Professional identity
+
+Priya Nair is a communications assistant with an interest in accessible public information.
+
+## Expertise and audience
+
+She works across short-form writing, proofreading, event information, and coordinating updates across digital channels.
+
+## Credibility and impact
+
+In volunteer communications work, she identified inconsistent event details across channels and introduced a final fact-check before publication.
+
+## Current focus and value
+
+Priya aims to make messages accurate, welcoming, and easy for readers to act on.
+
+## Optional human detail
+
+She enjoys community arts events and independent bookshops.

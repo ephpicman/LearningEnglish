@@ -1,18 +1,56 @@
-# A university course
+# Proposal to add a validation step to monthly reporting
+
+*Illustrative business proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+
+## Before you draft
+
+The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+
+## Draft structure
+
+The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+
+## Title and decision metadata
+
+Proposal to add a validation step to monthly reporting
+Owner: Operations lead | Date: 24 October 2026 | Decision: approve a limited pilot
 
 ## Executive summary
-This proposal recommends a focused initiative to improve a university course without creating unnecessary operational burden.
 
-## Rationale
-Current arrangements leave users facing avoidable friction. A measurable intervention could improve access and produce more consistent results.
+Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting. The proposal is designed to test the operational value before committing to a wider rollout.
 
-## Proposed approach
-Run an eight-week pilot with a named owner, clear milestones and a modest budget. Consult affected users before launch and review results every two weeks.
+## Business need and current state
 
-## Resources and risks
-The main costs are staff time, training and basic reporting. The key risk is low participation; address it through early communication and accessible support.
+Two source systems use similar category labels with different meanings, which risks misleading comparisons in the monthly report.
 
-## Evaluation
-Measure uptake, completion time and user satisfaction against a baseline. Expand only if the agreed targets are met.
+## Proposed solution and scope
 
----
+Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting.
+
+## Market, customer, or operational rationale
+
+A documented definition should improve consistency and traceability. It does not guarantee the source data itself is complete or correct.
+
+## Delivery plan and governance
+
+Source owners review definitions in week 1; analytics drafts validation rules in week 2; test on a sample in week 3; approve the updated data dictionary in week 4.
+
+## Budget, benefits, and commercial assumptions
+
+The proposal requires analyst and source-owner time. Any engineering work should be estimated after the rules are agreed. Benefits should be measured through fewer unresolved discrepancies and clearer audit trails.
+
+## Risks and mitigations
+
+Teams may disagree on terminology or lack an authoritative source. Escalate unresolved definitions to the reporting owner and do not silently merge categories.
+
+## Success measures and decision requested
+
+Approve the validation step for the next reporting cycle and review the discrepancy log before deciding whether further automation is justified.
+
+## Language and quality review
+
+Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+
+## IELTS-oriented practice note
+
+The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.

@@ -1,18 +1,53 @@
-# A university mentoring programme
+# Proposal to introduce a shared service-request queue
+
+*Illustrative improvement proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+
+## Before you draft
+
+The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+
+## Draft structure
+
+The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+
+## Title and metadata
+
+Proposal to introduce a shared service-request queue
+Owner: Process improvement lead | Status: Proposal
 
 ## Executive summary
-This proposal recommends a focused initiative to improve a university mentoring programme without creating unnecessary operational burden.
 
-## Rationale
-Current arrangements leave users facing avoidable friction. A measurable intervention could improve access and produce more consistent results.
+Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route. A limited pilot will test whether the change addresses the observed problem before wider adoption.
 
-## Proposed approach
-Run an eight-week pilot with a named owner, clear milestones and a modest budget. Consult affected users before launch and review results every two weeks.
+## Current process and evidence of the problem
 
-## Resources and risks
-The main costs are staff time, training and basic reporting. The key risk is low participation; address it through early communication and accessible support.
+Internal requests currently arrive through email and spreadsheets, making ownership and priority difficult to track.
 
-## Evaluation
-Measure uptake, completion time and user satisfaction against a baseline. Expand only if the agreed targets are met.
+## Root causes and constraints
 
----
+A single view can reduce duplicate entry and make handoffs more visible. The proposal assumes the team can use its existing collaboration tools; licensing and access permissions must be confirmed. Constraints include staff time, existing tools, and the need to keep current responsibilities clear.
+
+## Recommended improvement
+
+Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route.
+
+## Implementation and change management
+
+Week 1: agree categories and permissions. Week 2: configure and test with sample requests. Weeks 3–6: run the pilot and gather feedback. Operations manager owns the review; team leads own status definitions.
+
+## Benefits, costs, and risks
+
+Primary cost is staff time for setup, training, and review. No new software purchase is assumed. Estimate actual hours before approval; benefits should be assessed through completeness of ownership fields, time spent chasing updates, and staff feedback.
+Risks include duplicate entry during transition and inconsistent use. Mitigate with a clear start date, short guide, and weekly review. Do not migrate sensitive records without confirming permissions.
+
+## Measures, review, and approval
+
+Approve a four-week pilot for one request category. Review whether requests have a named owner and next action, and decide whether to expand based on evidence.
+
+## Language and quality review
+
+Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+
+## IELTS-oriented practice note
+
+The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.

@@ -1,14 +1,26 @@
-# A workplace policy
+# Request letter: Request for a reference letter
+*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+## Plan first
+The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+## Letter structure
+Use the following sections to make the requested decision easy to understand.
+## Greeting and request purpose
+I am writing to ask whether you would be comfortable providing a reference for my application to the graduate research programme.
 
-Dear Sir or Madam,
+## Context and justification
+I valued working with you on the seminar project about urban transport policy, where I prepared the source comparison and presented the findings to the group.
+## Specific request and scope
 
-I am writing regarding a workplace policy.
+The application deadline is 30 November, and the programme asks referees to comment on research ability, written communication, and readiness for postgraduate study. I can send my statement and the programme details for context.
 
-I am writing regarding a workplace policy. I would like to explain the situation clearly, outline the relevant details and suggest a practical next step. I hope we can resolve the matter fairly and maintain a positive relationship.
+## Supporting information and flexibility
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+Please feel free to decline if your schedule does not allow enough time. If you agree, I will provide the submission instructions and any required forms promptly.
 
-Yours faithfully,
-Alex Morgan
+## Timing and closing
 
----
+Thank you for considering this and for your guidance during the project.
+Daniel Okafor
+
+## Final review
+Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.

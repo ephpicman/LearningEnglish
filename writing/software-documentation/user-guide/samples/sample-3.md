@@ -1,18 +1,36 @@
-# A new colleague
+# User guide: review and update a support ticket
 
-## Overview
-This guide explains how to use a new colleague safely and consistently.
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
-## Before you begin
-Sign in with an authorised account and confirm that the required permissions are available.
+## Purpose and audience
 
-## Steps
-1. Open the relevant workspace.
-2. Select the resource you need.
-3. Enter the required details and review them.
-4. Save changes and check the confirmation message.
+This guide explains how authorised support staff review a ticket, add a note, and update its status.
 
-## Troubleshooting
-If the update does not appear, refresh the page and check your permissions. When contacting support, include the timestamp and expected versus actual result, but never include credentials.
+## Prerequisites and access
 
----
+You need an active account and permission to view and update the ticket. Confirm whether your role permits internal notes or customer-visible comments before posting.
+
+## Concepts / interface overview
+
+A ticket records the issue, current status, owner, and communication history. Internal notes are not intended for the customer; public replies may be visible externally. Use the visibility control carefully and follow the organisation’s communication policy.
+
+## Task-based procedure
+
+1. Search for the ticket using its reference ID.
+2. Confirm the subject and requester before making changes.
+3. Read the existing notes and check what has already been tried.
+4. Add a concise update with the relevant finding or next action.
+5. Select the correct visibility and verify it before saving.
+6. Change the status only when the workflow criteria are met.
+
+## Expected results and verification
+
+The ticket should show the saved note and updated status. If the save fails, refresh the record and confirm whether the update was applied before trying again.
+
+## Troubleshooting and limitations
+
+If the ticket is not visible, check your permissions and search reference. If the status transition is rejected, review the allowed workflow transitions. Never copy a customer’s credentials into a note.
+
+## Related tasks / next steps
+
+Review the handover guide for unresolved tickets and the support escalation policy for security, privacy, or service-critical issues.

@@ -1,7 +1,15 @@
-# A missed project deadline
+# Professional LinkedIn comment 2
 
-**Context:** Reply to a discussion about a missed project deadline.
+*Illustrative comment; post only when it genuinely responds to the original discussion.*
 
-A useful point. I’d add that a missed project deadline works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+That distinction between a decision and an action is important. I’d add an owner and review date so the team can tell whether the action actually moved forward.
+
+## Added insight or question
+
+How do you decide when a page should be split into a task guide and a troubleshooting guide?
+
+## Optional close
+
+Thanks for raising a practical point that teams can test in their own context.

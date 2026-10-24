@@ -1,10 +1,33 @@
-# A new colleague
+# Online learning: compare contrast essay
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+## Before writing
+Use the same criteria to compare both options and avoid describing one in detail while barely discussing the other.
+## Essay structure
 
-**Prompt:** Discuss both views and give your opinion.
+The comparison is organised by shared criteria rather than two unrelated lists.
 
-Supporters of a new colleague emphasise flexibility and efficiency, while critics worry about quality and unequal access. Both arguments deserve consideration; a sensible approach should combine modern options with appropriate personal support.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and comparison basis
 
-In conclusion, a new colleague can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The choice between different approaches to online learning depends on what people need and which constraints matter most. This essay compares the options through flexibility, access, and practical limitations.
 
----
+## Criterion 1: both subjects
+
+Online learning offers flexible timing and removes travel, while classroom learning provides face-to-face interaction and a shared physical learning environment.
+
+## Criterion 2: both subjects
+
+Online courses require students to manage their time and technology; classroom courses provide a fixed routine but may be less accessible to people with inflexible schedules.
+
+## Synthesis and significance
+
+Online learning and classroom learning also differ in how they structure feedback. A digital course can provide recorded demonstrations and flexible practice, but the learner may need to ask for help actively. In a classroom, a teacher may notice confusion sooner, although a large class can still leave some students without individual attention. Neither format guarantees good teaching; course design and support remain central.
+
+Course quality depends on how well the format matches the learning goal and whether students receive practice, feedback, and support.
+
+## Conclusion
+
+Neither option is automatically best in every setting. The more suitable choice depends on the intended outcome, available resources, and the needs of the people affected.
+
+## Final IELTS checklist
+
+Make comparisons explicit, use parallel criteria, and ensure the conclusion synthesises rather than repeats the introduction.

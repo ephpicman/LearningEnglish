@@ -1,7 +1,19 @@
-# A missed project deadline
+# Documentation tip: show the expected result
 
-**Context:** Publish a concise professional update about a missed project deadline.
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
-A practical lesson from a missed project deadline: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+Documentation tip: show the expected result
+
+## Essential Information
+
+A step-by-step guide is easier to follow when readers know what success looks like after each important action. Where it helps, include an example output or a simple verification check.
+
+## Relevance or Takeaway
+
+This helps users distinguish a completed step from a silent failure.
+
+## Call to Action or Close
+
+Review one guide and add a verification point.

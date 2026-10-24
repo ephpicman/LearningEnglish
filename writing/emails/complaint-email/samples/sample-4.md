@@ -1,12 +1,27 @@
-# A university course
+# Request for repair of a leaking tap
 
-**Subject:** Meeting and next steps
+*Illustrative complaint email; confirm all dates and records before sending.*
 
-Hello everyone,
+## Subject Line
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Request for repair of a leaking tap
 
-Best regards,
-Alex Morgan
+## Greeting and Purpose
 
----
+Hello Property Services, I am reporting a leak under the kitchen sink in apartment 3B.
+
+## Facts and Timeline
+
+I noticed water collecting beneath the cold-water connection this morning. I turned off the local valve and placed a container underneath; the cabinet base is damp but I have not noticed water spreading beyond it.
+
+## Impact and Evidence
+
+The leak prevents normal use of the sink and may damage the cabinet if it continues.
+
+## Requested Resolution
+
+Please arrange an inspection and repair, and let me know the expected visit window. If there is another safe step I should take while waiting, please advise.
+
+## Closing
+
+Thank you. Kind regards, Alex

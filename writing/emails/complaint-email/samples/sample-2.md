@@ -1,12 +1,27 @@
-# A missed project deadline
+# Request to correct an invoice
 
-**Subject:** Following up on our discussion
+*Illustrative complaint email; confirm all dates and records before sending.*
 
-Hello Priya,
+## Subject Line
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+Request to correct an invoice
 
-Best regards,
-Alex Morgan
+## Greeting and Purpose
 
----
+Hello Accounts Team, I am contacting you about invoice INV-2046 dated 8 October.
+
+## Facts and Timeline
+
+The invoice includes two units of the service, although our approved order and delivery record list one. I have checked the line items against the purchase confirmation.
+
+## Impact and Evidence
+
+We cannot approve payment until the quantity matches the agreed order, and the discrepancy is holding up our month-end reconciliation.
+
+## Requested Resolution
+
+Could you issue a corrected invoice showing one unit and confirm whether the original should be marked void? I can forward the purchase order and delivery record for reference.
+
+## Closing
+
+Thank you for reviewing this. Best regards, Morgan

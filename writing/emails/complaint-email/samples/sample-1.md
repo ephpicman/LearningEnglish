@@ -1,12 +1,27 @@
-# A university mentoring programme
+# Incorrect item in order 4817
 
-**Subject:** Request to resolve a service issue
+*Illustrative complaint email; confirm all dates and records before sending.*
 
-Dear Customer Support Team,
+## Subject Line
 
-I am writing about a university mentoring programme. The service did not match the arrangements confirmed earlier, and my attempts to resolve the issue have not been successful. Please investigate and let me know whether a correction or refund is appropriate. I would appreciate an update within five working days.
+Incorrect item in order 4817
 
-Kind regards,
-Alex Morgan
+## Greeting and Purpose
 
----
+Dear Customer Support Team, I am writing about order 4817, delivered on 14 October.
+
+## Facts and Timeline
+
+The order confirmation lists a black wireless keyboard, but the parcel contained a white model. The outer packaging was intact when it arrived, and the packing slip also shows the black model.
+
+## Impact and Evidence
+
+I need the black model for a matching workstation setup. I can provide a photo of the item and packing slip if required.
+
+## Requested Resolution
+
+Please arrange an exchange for the item listed on the order, and let me know whether you will provide a return label. I would appreciate confirmation of the next steps within three working days.
+
+## Closing
+
+Thank you for helping resolve this. Kind regards, Taylor

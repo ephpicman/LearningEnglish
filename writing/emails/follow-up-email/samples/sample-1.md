@@ -1,12 +1,23 @@
-# A university mentoring programme
+# Following up on proposal review
 
-**Subject:** Request to resolve a service issue
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
-Dear Customer Support Team,
+## Subject/thread reference
 
-I am writing about a university mentoring programme. The service did not match the arrangements confirmed earlier, and my attempts to resolve the issue have not been successful. Please investigate and let me know whether a correction or refund is appropriate. I would appreciate an update within five working days.
+Following up on proposal review
 
-Kind regards,
-Alex Morgan
+## Prior contact
 
----
+I sent the draft proposal on 9 October for your comments before the planning meeting.
+
+## Reason for follow-up
+
+I am checking in because the meeting is approaching and I want to allow enough time to incorporate any essential changes.
+
+## Update or question
+
+If you have had a chance to review it, could you let me know whether the scope and timeline look reasonable? If the review is still in progress, a brief estimate of when you expect to finish would help me plan.
+
+## Next step and close
+
+I can also arrange a short call if that is easier. Thank you, Jordan

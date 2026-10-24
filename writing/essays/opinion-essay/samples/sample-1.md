@@ -1,10 +1,21 @@
-# A university mentoring programme
+# Remote work: opinion essay
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+## Introduction
+The question of how society should approach remote work involves practical benefits as well as genuine concerns. On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
+## Reason 1
 
-**Prompt:** To what extent do you agree that this issue deserves more attention?
+One reason is that flexibility can support people with different responsibilities and working styles. A parent or carer may be able to organise the day more effectively, while an employee doing focused analysis may benefit from fewer interruptions. These gains are most likely when managers set clear goals and provide a reliable way to collaborate.
 
-There is a strong case for giving a university mentoring programme greater attention, although investment should be tied to clear outcomes. When a policy addresses a genuine need, it can improve access and create benefits beyond the immediate users.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+Remote work can reduce commuting time and give employees more control over their working environment. For tasks requiring concentration, fewer office interruptions may help people organise their day. It can also widen access to jobs for people who live far from a central office or need a more flexible routine.
 
-In conclusion, a university mentoring programme can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+## Reason 2
 
----
+However, remote work can make informal learning and collaboration harder, especially for new employees. People may also have unequal home working conditions, and blurred boundaries can lead to longer working hours. These disadvantages depend on how well the organisation supports remote staff. This is why implementation should include safeguards and respond to different circumstances.
+
+## Qualification or opposing view (optional)
+
+Critics are right that not every task can be done remotely and that some workers value direct contact. This argues for a role-sensitive approach rather than a universal rule.
+
+## Conclusion
+
+On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.

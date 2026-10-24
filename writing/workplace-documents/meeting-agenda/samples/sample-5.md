@@ -1,13 +1,29 @@
-# A workplace policy
+# Meeting agenda: Community workshop venue
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+## Meeting metadata
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+- **Date:** 21 November 2026
+- **Chair / organiser:** Priya Nair
+- **Attendees:** Priya Nair, facilities coordinator, outreach lead
+- **Duration:** 30–45 minutes, to be confirmed
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+## Objective and desired outcomes
 
----
+Decide whether to retain the preferred venue or activate the backup.
+
+## Agenda table
+
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Review context and current status | Establish shared facts | Priya Nair | 5 min |
+| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
+| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
+| Assign actions | Name owners and due dates | All | 5 min |
+
+## Pre-reading / preparation
+
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+
+## Decisions required
+
+Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.

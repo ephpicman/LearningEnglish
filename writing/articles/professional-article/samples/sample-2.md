@@ -1,13 +1,39 @@
-# A missed project deadline
+# Building a practical data governance routine
+*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
+## Before you draft
+Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
+## Draft structure
+The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
+## Title
+**Building a practical data governance routine**
+## Executive opening
+Data governance is often treated as a large policy project, but many teams need a repeatable way to decide what a field means, who may change it, and how a correction is recorded. A lightweight routine can improve consistency without creating unnecessary approval layers. The key is to make ownership, definitions, and change history visible while applying stronger controls to higher-risk data.
+## Context, definitions, and scope
+This article focuses on operational data used across teams. It does not replace legal, privacy, security, or sector-specific obligations. Organisations should align any proposed routine with their approved governance framework and data classification rules.
+## Professional insight 1
+Start with a data dictionary for the fields that influence important reports or workflows. Record a plain-language definition, allowed values, source system, owner, and known caveats. When two systems use the same label differently, keep the values separate until the owners agree on a mapping. A shared name is not proof of shared meaning.
+## Professional insight 2
+A useful governance routine also distinguishes a data owner from a technical custodian. The owner is accountable for meaning and appropriate use; the custodian maintains the system and controls access according to policy. One person may fill both roles in a small team, but the responsibilities should still be explicit. Without this distinction, technical changes can unintentionally alter a business definition, or business teams may expect engineers to decide questions that require domain knowledge.,When a definition changes, identify which reports, dashboards, and automated rules depend on it. A small change in category meaning can make historical comparisons misleading even when the data pipeline continues to run successfully. Where a restatement is not practical, document the effective date and explain the limitation to report readers.
+Governance also needs a change process. A request should identify the field, the reason for change, affected reports, and the person who approves it. Version history helps analysts explain why a number differs from an earlier report. For sensitive data, access and retention decisions should be reviewed by the appropriate privacy or security owner.
+## Recommendations and application
+Choose a small group of high-impact fields, assign owners, and hold a short monthly review for unresolved definitions. Link the dictionary to the reports that use it and include a process for reporting errors.
 
-**Audience:** General readers interested in a missed project deadline.
+## Risks, limitations, and open questions
 
-# A missed project deadline: Small Changes, Lasting Results
+A dictionary can become stale if no one owns it, and excessive approval steps can delay harmless corrections. Use risk-based review and distinguish wording changes from changes that alter meaning or downstream results.
 
-A missed project deadline shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+## Conclusion
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+Before adoption, ask readers to identify the decision they would make from the report and the uncertainty they would still need to resolve. If different readers interpret the same indicator differently, the issue may be a definition or presentation problem rather than a lack of data. This reader test is a low-cost way to improve usefulness.
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+Governance should be treated as a service to people who use data, not only as a control imposed on them. The process needs a straightforward route for asking a question, proposing a definition change, and resolving disagreement. A short decision record can capture the final meaning, the evidence considered, and any affected reports. Periodically reviewing these records helps identify repeated ambiguity and shows where the data model itself may need to change. The goal is to make responsible use easier, while ensuring that sensitive information remains protected and important decisions can be traced.
 
----
+Effective governance is a working habit, not a document that sits unused. Clear ownership and traceable definitions help teams make consistent decisions while keeping the process proportionate to the data’s importance.
+
+## Language and quality review
+
+Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
+
+## IELTS-oriented practice note
+
+For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.

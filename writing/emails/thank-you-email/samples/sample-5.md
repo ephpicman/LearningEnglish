@@ -1,12 +1,41 @@
-# A workplace policy
+# Thank you for the recommendation
 
-**Subject:** Thank you for your support
+*Illustrative thank-you email. Keep the details specific to the help actually received.*
 
-Dear Jordan,
+## Plan before drafting
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+Name the contribution, explain its effect, and include a next step only if it is useful.
 
-Best regards,
-Alex Morgan
+## Email structure
 
----
+A brief, specific message is more meaningful than generic praise.
+
+## Subject line
+
+Thank you for the recommendation
+
+## Greeting and direct thanks
+
+Hello,
+
+Thank you for agreeing to provide a reference for my application.
+
+## Specific detail and impact
+
+I appreciate the time this takes, especially alongside your current workload. The projects we worked on together gave you a useful view of how I organise tasks and respond to feedback.
+
+## Follow-up or next step
+
+I have sent the application deadline and the role description so you have the relevant context. Please tell me if any other information would be helpful.
+
+## Warm closing and sign-off
+
+Thank you again for your support. Warm regards, Noor
+
+## Final checklist
+
+Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
+
+## IELTS-oriented language practice
+
+The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.

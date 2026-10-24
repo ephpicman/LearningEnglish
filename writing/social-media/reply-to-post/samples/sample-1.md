@@ -1,7 +1,19 @@
-# A university mentoring programme
+# Reply to a professional post: You argue that every process should be automated.
 
-**Context:** Reply to a discussion about a university mentoring programme.
+*Illustrative reply. Use only when it accurately responds to the original post.*
 
-A useful point. I’d add that a university mentoring programme works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+You argue that every process should be automated.
+
+## Response and reasoning
+
+Automation can reduce repetitive work, but it is worth understanding the process before encoding it.
+
+## Added value
+
+If ownership and exception handling are unclear, automation may simply make mistakes happen faster. A small pilot with an explicit fallback route can show whether the process is ready.
+
+## Optional close
+
+Which exception would you test first?

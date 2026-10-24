@@ -1,18 +1,35 @@
-# A university mentoring programme
+# Changelog — 2.4.0
 
-## [1.4.0] — 2026-10-20
+*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
 
-### Added
-- Added improved support for a university mentoring programme.
-- Added clearer status feedback for users.
+## Version and date
 
-### Changed
-- Improved validation messages and loading states.
+- **Version:** 2.4.0
+- **Date:** 2026-02-18
 
-### Fixed
-- Fixed a pagination issue that could repeat the final item.
+## Added
 
-### Upgrade notes
-No migration is required. If the previous interface remains visible, refresh the browser after deployment.
+- Added an optional `status` filter to the activity-list endpoint.
+- Added a `request_id` field to error responses to help support teams trace a failed request.
 
----
+## Changed
+
+- Clarified that list results are ordered by creation time, newest first.
+- Updated the configuration guide to distinguish required settings from optional overrides.
+
+## Fixed
+
+- Fixed a case where an empty search query was treated differently from an omitted query.
+- Corrected an example that used an outdated response field name.
+
+## Deprecated and removed
+
+- No features were deprecated or removed in this illustrative release.
+
+## Security
+
+- No security change is claimed here. Check the release issue and security review before publishing real release notes.
+
+## Final quality check
+
+Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.

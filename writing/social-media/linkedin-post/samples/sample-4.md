@@ -1,7 +1,23 @@
-# A university course
+# Learning at work needs room for practice, not only access to courses.
 
-**Context:** Publish a concise professional update about a university course.
+*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
 
-A practical lesson from a university course: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook
 
----
+Learning at work needs room for practice, not only access to courses.
+
+## Main point
+
+A course can introduce a concept, but people need time to apply it to their actual tasks and ask questions when the real workflow differs from the example.
+
+## Support or experience
+
+A useful plan links one learning objective to a small task, a feedback point, and a chance to revise the work. Completion alone does not show whether the skill transferred.
+
+## Practical takeaway
+
+When planning training, decide in advance what someone should be able to do afterwards and how they can practise it safely.
+
+## Question or call to action
+
+What helps new skills stick in your workplace?

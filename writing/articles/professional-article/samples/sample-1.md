@@ -1,13 +1,43 @@
-# A university mentoring programme
+# Designing operational metrics that support decisions
+*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
+## Before you draft
+Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
+## Draft structure
+The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
+## Title
+**Designing operational metrics that support decisions**
+## Executive opening
+Operational metrics are most useful when they help a team choose an action, not simply describe activity. A reporting system should connect measures to a decision, make definitions consistent, and expose limitations that could change interpretation. This article outlines a practical way to select measures, establish ownership, and review whether a dashboard is still useful. The examples are illustrative; teams should validate definitions and data quality before using metrics to assess performance.
+## Context, definitions, and scope
+An operational metric is a defined measure used to monitor a process or outcome. The intended reader is a team lead who uses recurring reports to allocate effort or identify problems. This discussion covers internal service operations rather than financial or regulated reporting, where additional controls may apply.
+## Professional insight 1
 
-**Audience:** General readers interested in a university mentoring programme.
+Start with the decision. If the question is whether requests are being resolved reliably, a count of tickets created is not enough. The team may need to distinguish active handling time from waiting time, separate urgent from routine requests, and record when a request is reopened. Each measure needs a definition, source, refresh schedule, and owner.
 
-# A university mentoring programme: Small Changes, Lasting Results
+## Professional insight 2
 
-A university mentoring programme shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+A practical review can begin with a decision map: what question does each indicator answer, who acts on it, and what evidence would change that action? If no one can name a decision or an owner, the measure may be useful background information but should not automatically occupy dashboard space. It is also worth recording whether the metric is leading or lagging: a leading signal may help a team intervene earlier, while a lagging measure shows an outcome after the work has occurred. Both can be useful, but they answer different questions.,Teams should test definitions using real examples rather than relying only on a label. Ask two analysts to calculate the same measure independently and compare the result. Differences may reveal an unclear date boundary, inconsistent treatment of reopened requests, or a missing exclusion rule. Document the agreed definition and keep a version history when it changes.
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+A dashboard can create false confidence if the underlying data is incomplete or categories change without notice. Teams should show missingness and define the limits of comparison. A rise in reported incidents may reflect better detection rather than worsening service, so a metric should be interpreted alongside context and qualitative evidence.
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+## Recommendations and application
 
----
+Before adding a metric, write down the decision it supports, who will act on it, and what would trigger a review. Pilot the measure with users, test a few records against the source, and remove indicators that do not change decisions.
+
+## Risks, limitations, and open questions
+
+Metrics can encourage gaming when people are rewarded for a number without considering quality. Small samples can also fluctuate for reasons unrelated to performance. Keep measures proportional to the risk, review unintended incentives, and avoid comparing teams whose work differs materially.
+
+## Conclusion
+
+Teams can also review the usefulness of a metric after it has been in use for a few reporting cycles. Ask whether the indicator changed a decision, prompted an investigation, or simply repeated information already available elsewhere. If it does not support an action, it may belong in reference material rather than the main dashboard. This review should include people who use the measure and those responsible for producing it, because each group may notice different costs. A clear definition and an owner make the metric easier to maintain, but continued relevance is what justifies keeping it.
+
+A useful metric has a clear definition, a decision owner, and a known limitation. A smaller set of trustworthy measures can support better action than a crowded dashboard that no one knows how to interpret.
+
+## Language and quality review
+
+Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
+
+## IELTS-oriented practice note
+
+For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.

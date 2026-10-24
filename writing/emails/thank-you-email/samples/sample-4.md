@@ -1,12 +1,41 @@
-# A university course
+# Thank you for the workshop feedback
 
-**Subject:** Meeting and next steps
+*Illustrative thank-you email. Keep the details specific to the help actually received.*
 
-Hello everyone,
+## Plan before drafting
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Name the contribution, explain its effect, and include a next step only if it is useful.
 
-Best regards,
-Alex Morgan
+## Email structure
 
----
+A brief, specific message is more meaningful than generic praise.
+
+## Subject line
+
+Thank you for the workshop feedback
+
+## Greeting and direct thanks
+
+Hello,
+
+Thank you for reviewing the workshop plan and suggesting a shorter opening activity.
+
+## Specific detail and impact
+
+Your feedback helped me see that the original introduction left too little time for participants to practise the main task. I have revised the schedule and added a clear transition between the demonstration and group exercise.
+
+## Follow-up or next step
+
+I will share the updated version with the facilitators before the final planning check.
+
+## Warm closing and sign-off
+
+Thanks again for helping improve the session. Best, Sam
+
+## Final checklist
+
+Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
+
+## IELTS-oriented language practice
+
+The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.

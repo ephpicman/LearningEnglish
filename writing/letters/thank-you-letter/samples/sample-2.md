@@ -1,14 +1,33 @@
-# A missed project deadline
+# Thank-you letter
 
-Dear Jamie,
+*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
 
-I am writing regarding a missed project deadline.
+## Plan first
 
-I wanted to thank you for your generous support. Your time and kindness made a difficult situation much easier, and I especially appreciated the care you took to ensure everything was organised.
+A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+Keep the tone warm and proportionate to the relationship.
 
----
+## Greeting and direct thanks
+
+Dear colleague,
+
+I would like to thank you for reviewing my application materials before the deadline.
+
+## Specific detail and impact
+
+Your comments helped me replace broad claims with clearer examples of what I had actually done. I also appreciated the reminder to connect each example to the programme’s criteria rather than listing experiences without explanation.
+
+## Relationship or next step
+
+I have submitted the revised application and will keep you informed when I hear back. Thank you again for giving your time to help me improve it.
+
+## Warm closing
+
+Your support has meant a great deal. Kind regards, Amira
+
+## Final review
+
+Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.

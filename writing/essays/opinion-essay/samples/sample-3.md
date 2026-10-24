@@ -1,10 +1,21 @@
-# A new colleague
+# Online learning: opinion essay
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+## Introduction
+The question of how society should approach online learning involves practical benefits as well as genuine concerns. Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.
+## Reason 1
 
-**Prompt:** Discuss both views and give your opinion.
+Online courses can be particularly useful for adults who combine study with employment. The ability to revisit a difficult explanation and complete work at a suitable time can make continued education more realistic. Nevertheless, flexibility should not become an excuse for leaving learners without support. Institutions must plan feedback and interaction as carefully as they plan the learning materials.
 
-Supporters of a new colleague emphasise flexibility and efficiency, while critics worry about quality and unequal access. Both arguments deserve consideration; a sensible approach should combine modern options with appropriate personal support.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+Online learning can make courses available to people who live far from educational institutions or have work and family responsibilities. Recorded materials can be revisited, and digital resources may support learners who need to study at different times.
 
-In conclusion, a new colleague can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+## Reason 2
 
----
+It can also increase isolation and reduce immediate feedback. Learners need reliable internet, suitable devices, and a quiet place to study, so online access is not equally convenient for everyone. This is why implementation should include safeguards and respond to different circumstances.
+
+## Qualification or opposing view (optional)
+
+Some argue that online courses are inherently less effective because students lose classroom interaction. That risk is real for poorly designed courses, but it does not mean all online learning lacks discussion, practice, or feedback.
+
+## Conclusion
+
+Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.

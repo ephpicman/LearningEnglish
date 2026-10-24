@@ -1,14 +1,23 @@
-# A workplace policy
+# Application response: Why are you a strong candidate for this role?
 
-Dear Hiring Team,
+*Illustrative application response. Adapt the example to the applicant’s real experience and the employer’s exact word limit.*
 
-I am pleased to apply for the opportunity relating to a workplace policy. My experience coordinating work across teams has taught me to turn broad objectives into clear actions, communicate risks early and keep stakeholders informed.
+## Direct answer to prompt
 
-In my current role, I introduced a shared tracking process that improved visibility and reduced overdue actions. I would bring the same practical, collaborative approach to your organisation, while remaining open to feedback and continuous learning.
+I am a strong candidate because my experience matches the role’s need for organised execution, clear communication, and careful attention to detail.
 
-Thank you for considering my application. I would welcome the opportunity to discuss how my experience matches your needs.
+## Relevant context
 
-Kind regards,
-Alex Morgan
+The situation required me to balance practical constraints with the needs of colleagues who depended on accurate information. I clarified what success would look like before choosing an approach.
 
----
+## Evidence of capability
+
+In project and volunteer work, I have coordinated tasks, maintained shared records, and prepared concise updates for people with different levels of context. I try to clarify the expected outcome early, record decisions, and flag risks before they become urgent. I am also receptive to review and can adjust my approach when feedback identifies a better method.
+
+## Outcome and relevance
+
+These habits help a team rely on my work and make it easier for colleagues to continue a task when responsibilities change. I would bring that reliability while learning the specific systems, standards, and priorities of your organisation.
+
+## Closing if useful
+
+I would welcome the opportunity to discuss the role’s priorities and how I could contribute.

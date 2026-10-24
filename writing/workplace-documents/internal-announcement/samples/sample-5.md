@@ -1,11 +1,45 @@
-# A workplace policy
+# Internal announcement: Community workshop venue
 
-**Subject: New shared process for project updates**
+*Illustrative internal announcement. Confirm dates and operational details before sending.*
 
-From Monday, all teams should record project status, upcoming milestones and blockers in the shared tracker. This will give colleagues a consistent view of progress and reduce duplicate requests for updates.
+## Plan first
 
-Team leads should review their entries each Thursday. A short guide is available in the team workspace, and a 20-minute drop-in session will be held on Wednesday for anyone who needs support.
+The message explains the change, who is affected, what action is required, and where to get help.
 
-Thank you for helping us make reporting clearer and more useful.
+## Document structure
 
----
+Lead with the main message and keep supporting context brief.
+
+## Announcement metadata
+
+- **Date:** 21 November 2026
+- **Contact:** Priya Nair
+- **Audience:** Relevant project and operations teams
+
+## Headline and key message
+
+**Promotion will wait until the venue, time, and access details are verified.**
+
+## What is changing and why
+
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability. Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+
+## Impact on employees and teams
+
+The outreach team should hold scheduled posts and avoid distributing flyers with provisional details.
+
+## Actions, dates, and support
+
+Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November. The event record contains the draft copy and checklist. Contact Priya with questions.
+
+## Closing and contact
+
+Please review the relevant project record and raise any blocker with Priya Nair before the stated deadline.
+
+## Final quality check
+
+Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
+
+## IELTS-oriented language practice
+
+The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.

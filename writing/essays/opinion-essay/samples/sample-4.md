@@ -1,10 +1,21 @@
-# A university course
+# Urban green spaces: opinion essay
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+## Introduction
+The question of how society should approach urban green spaces involves practical benefits as well as genuine concerns. I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
+## Reason 1
 
-**Prompt:** What problems arise, and how could they be solved?
+Green space provides value beyond recreation because it creates places where people can pause, meet, and move away from busy streets. Children and older residents may especially benefit from safe local routes and accessible seating. These benefits should be weighed against housing demand through careful design rather than assuming that every unused plot should become a park.
 
-Improving a university course requires coordinated action rather than a single quick fix. Public bodies should set standards and provide essential infrastructure, organisations should monitor results, and individuals should have accessible ways to contribute.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+Parks give residents places to walk, exercise, meet neighbours, and spend time outdoors. Trees and planted areas can also provide shade and improve the experience of streets, especially where public space is otherwise dominated by traffic and hard surfaces.
 
-In conclusion, a university course can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+## Reason 2
 
----
+Urban land is limited, and cities also need housing, schools, transport, and commercial space. A poorly located or poorly maintained park may not serve the residents who need it most. This is why implementation should include safeguards and respond to different circumstances.
+
+## Qualification or opposing view (optional)
+
+The need for housing is a serious objection, especially in areas with high rents. However, green space and housing are not always mutually exclusive: small parks, green corridors, and shared courtyards can be incorporated into denser development.
+
+## Conclusion
+
+I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.

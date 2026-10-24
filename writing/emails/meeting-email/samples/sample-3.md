@@ -1,12 +1,23 @@
-# A new colleague
+# Interview panel preparation
 
-**Subject:** Enquiry about available options
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
-Dear Hiring Team,
+## Subject
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+Interview panel preparation
 
-Yours faithfully,
-Alex Morgan
+## Purpose and outcome
 
----
+The meeting will align the panel on role criteria, interview timing, and a consistent process for recording evidence.
+
+## Logistics
+
+Monday, 16 November, 9:30–10:00 a.m. Meeting room 2, with a video option for remote panel members.
+
+## Agenda and preparation
+
+Please read the approved role description before joining. We will confirm the question order, allocate note-taking, review accessibility arrangements, and agree how to handle candidate questions. We will not discuss assumptions about candidates that are unrelated to the published criteria.
+
+## Confirmation and sign-off
+
+Please confirm attendance and flag any conflict with the proposed time. Thank you, Elena

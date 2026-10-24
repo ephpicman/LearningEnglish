@@ -1,10 +1,33 @@
-# A missed project deadline
+# Public transport investment: discussion essay
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+## Before writing
+Present both views fairly before giving a personal position only if the prompt asks for one.
+## Essay structure
 
-**Prompt:** Discuss the advantages and disadvantages.
+Each viewpoint is developed with reasoning, followed by a balanced conclusion.
 
-The principal advantage of a missed project deadline is convenience, because people can access support more flexibly. It may also reduce long-term costs. However, initial investment can be high, and people without suitable resources risk being excluded.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and issue framing
 
-In conclusion, a missed project deadline can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+There are differing views about public transport investment. The debate reflects different priorities, and both positions have arguments that deserve consideration.
 
----
+## Viewpoint 1 and reasoning
+
+Supporters of transit investment argue that it can improve access and reduce the need for individual car trips when routes are convenient and reliable.
+
+## Viewpoint 2 and reasoning
+
+Investment decisions should consider the whole journey, not just the road or rail line. People need to reach a stop safely, understand the timetable, and rely on connections. At the same time, rural and freight needs may require road investment. The strongest policy uses local travel evidence to decide where each form of investment has the greatest value.
+
+Others argue that road capacity remains essential for freight, emergency vehicles, and places where population is spread out. A transit line that does not serve actual travel patterns may not deliver its expected benefits.
+
+## Your opinion (only if requested)
+
+I favour prioritising public transport in dense corridors, while maintaining roads and providing flexible options in areas where transit is less practical.
+
+## Conclusion
+
+Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
+
+## Final IELTS checklist
+
+Check that both viewpoints receive adequate development and that your own opinion is included only when requested.

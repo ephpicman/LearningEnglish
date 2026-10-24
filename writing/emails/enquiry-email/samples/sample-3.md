@@ -1,12 +1,23 @@
-# A new colleague
+# Enquiry about internship applications
 
-**Subject:** Enquiry about available options
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
-Dear Hiring Team,
+## Subject
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+Enquiry about internship applications
 
-Yours faithfully,
-Alex Morgan
+## Greeting and context
 
----
+Dear Recruitment Team, I am interested in applying for the summer research internship listed on your careers page.
+
+## Questions
+
+Could you confirm the application deadline, whether applicants must currently be enrolled at a university, and which documents should be included? I would also appreciate clarification on whether references are required at the initial stage.
+
+## Constraints
+
+I will be completing my second year of study before the internship begins and can commit to the full advertised period.
+
+## Response request and sign-off
+
+Thank you for clarifying the requirements. Kind regards, Elena

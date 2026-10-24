@@ -1,14 +1,27 @@
-# A university mentoring programme
+# Application for Operations Coordinator at Northstar Community Services
 
-Dear Hiring Team,
+*Illustrative cover letter. Replace the role and organisation with a real opportunity and retain only claims that accurately describe the applicant.*
 
-I am pleased to apply for the opportunity relating to a university mentoring programme. My experience coordinating work across teams has taught me to turn broad objectives into clear actions, communicate risks early and keep stakeholders informed.
+## Opening and target role
 
-In my current role, I introduced a shared tracking process that improved visibility and reduced overdue actions. I would bring the same practical, collaborative approach to your organisation, while remaining open to feedback and continuous learning.
+I am applying for the Operations Coordinator at Northstar Community Services position. My experience in coordination, communication, and careful follow-through has prepared me to support a team that values reliable work and clear records.
 
-Thank you for considering my application. I would welcome the opportunity to discuss how my experience matches your needs.
+## Employer-specific motivation
 
-Kind regards,
-Alex Morgan
+Northstar’s focus on making local services easier to access appeals to me because the role combines practical coordination with clear communication. I am particularly interested in work that helps frontline teams spend less time resolving avoidable process problems.
 
----
+## Relevant qualification
+
+My background includes coordinating schedules, maintaining shared records, and responding to requests from colleagues and external partners. I am comfortable balancing routine administration with urgent changes, while keeping confidential information limited to people who need it.
+
+## Achievement evidence
+
+In a previous administrative role, I inherited a shared tracker that contained duplicate entries and unclear ownership. I reviewed the fields with the team, agreed a consistent status vocabulary, and documented who updated each item. The tracker became easier to use during weekly handovers, and colleagues could identify outstanding tasks without relying on separate email threads.
+
+## Fit and contribution
+
+I would bring organised follow-through, careful record keeping, and a willingness to improve processes in consultation with the people who use them.
+
+## Closing and next step
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my experience fits the team’s needs.

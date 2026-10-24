@@ -1,7 +1,15 @@
-# A new colleague
+# Professional LinkedIn comment 3
 
-**Context:** Reply to a discussion about a new colleague.
+*Illustrative comment; post only when it genuinely responds to the original discussion.*
 
-A useful point. I’d add that a new colleague works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+Good point about learning transfer. A short practice task and timely feedback often reveal more than course completion alone.
+
+## Added insight or question
+
+Have you found a simple way to measure whether the training changed day-to-day behaviour?
+
+## Optional close
+
+Thanks for raising a practical point that teams can test in their own context.

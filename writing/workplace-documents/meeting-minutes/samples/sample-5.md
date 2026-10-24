@@ -1,19 +1,32 @@
-# A workplace policy
+# Meeting minutes: Community workshop venue
 
-**Meeting:** Weekly Delivery Review  
-**Date:** 22 October 2026  
-**Attendees:** Riley Chen, Sam Patel, Alex Morgan
+## Meeting metadata and attendees
 
-## Decisions
-- Keep the pilot within the current scope.
-- Review performance against the baseline before expanding.
+- **Date:** 21 November 2026
+- **Facilitator:** Priya Nair
+- **Attendees:** Priya Nair, facilities coordinator, outreach lead
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
-## Actions
-- Alex: update the tracker by 27 October.
-- Sam: confirm user feedback themes by 28 October.
-- Riley: circulate the revised recommendation by 30 October.
+## Purpose / agenda
 
-## Risks
-Supplier confirmation remains outstanding. Riley will escalate if no response is received by the end of the week.
+Decide whether to retain the preferred venue or activate the backup.
 
----
+## Discussion summary by topic
+
+The team reviewed the outstanding access details and discussed the risks of changing venues late in the promotion cycle.
+
+## Decisions made
+
+A confirmation deadline was set; the backup venue will be used if required access information is not received.
+
+## Action items with owner and due date
+
+- Confirm preferred venue — Priya Nair — 23 November
+- Verify backup access — facilities coordinator — 24 November
+- Publish final event details — outreach lead — 26 November
+
+## Open issues and next meeting
+
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
+
+Decision checkpoint: 25 November.

@@ -1,17 +1,46 @@
-# A workplace policy
+# Internal memo: Community workshop venue
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A workplace policy
+*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a workplace policy remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+The memo states the purpose and requested action, then gives enough context for a decision.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document structure
 
----
+Keep the analysis proportionate to the decision being requested.
+
+## Memo header
+
+- **To:** Relevant team leads
+- **From:** Priya Nair
+- **Date:** 21 November 2026
+- **Subject:** Community workshop venue
+
+## Purpose and requested action
+
+Confirm the venue and access arrangements before promoting the community workshop. The requested action is to approve the recommendation below or identify what additional information is needed.
+
+## Background and facts
+
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability.
+
+## Analysis or key points
+
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
+
+## Recommendation or decision
+
+Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+
+## Actions, owners, and timing
+
+Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November.
+
+## Final quality check
+
+Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+
+## IELTS-oriented language practice
+
+The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.

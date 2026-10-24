@@ -1,12 +1,23 @@
-# A new colleague
+# Checking status of access request
 
-**Subject:** Enquiry about available options
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
-Dear Hiring Team,
+## Subject/thread reference
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+Checking status of access request
 
-Yours faithfully,
-Alex Morgan
+## Prior contact
 
----
+I submitted a request for access to the project dashboard on 6 October through the internal service portal.
+
+## Reason for follow-up
+
+I am following up because I need the dashboard to prepare the weekly summary.
+
+## Update or question
+
+Could you confirm whether the request is awaiting approval or whether any additional information is needed from me? I can provide the project owner’s confirmation if required.
+
+## Next step and close
+
+Thanks for your help. Best, Marcus

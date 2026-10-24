@@ -1,10 +1,27 @@
-# A university mentoring programme
+# Remote work: advantages disadvantages essay
 
-**Prompt:** To what extent do you agree that this issue deserves more attention?
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
-There is a strong case for giving a university mentoring programme greater attention, although investment should be tied to clear outcomes. When a policy addresses a genuine need, it can improve access and create benefits beyond the immediate users.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and paraphrase
 
-In conclusion, a university mentoring programme can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The growing use of remote work has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
 
----
+## Overall judgement if the prompt asks which side outweighs the other
+
+On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
+
+## Advantages
+
+Remote work can reduce commuting time and give employees more control over their working environment. For tasks requiring concentration, fewer office interruptions may help people organise their day. It can also widen access to jobs for people who live far from a central office or need a more flexible routine.
+
+## Disadvantages
+
+However, remote work can make informal learning and collaboration harder, especially for new employees. People may also have unequal home working conditions, and blurred boundaries can lead to longer working hours. These disadvantages depend on how well the organisation supports remote staff.
+
+## Evaluation if required
+
+The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Critics are right that not every task can be done remotely and that some workers value direct contact. This argues for a role-sensitive approach rather than a universal rule.
+
+## Conclusion
+
+Overall, on balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.

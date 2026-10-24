@@ -1,13 +1,39 @@
-# A university course
+# Make meeting decisions visible
 
-**Audience:** General readers interested in a university course.
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
-# A university course: Small Changes, Lasting Results
+## Title
 
-A university course shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+**Make meeting decisions visible**
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Opening hook and relevance
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+If a meeting ends with agreement but nobody can say who owns the next step, the decision is not ready to leave the room.
 
----
+## Context and central argument
+
+Notes should distinguish discussion from decisions. A transcript-like record may capture every comment while hiding the one choice that changes the plan. Clear minutes help absent colleagues understand what was decided and what remains open.
+
+## Key insight 1 with evidence
+
+For each decision, record the outcome, the accountable owner, and any condition or deadline. If the group did not reach agreement, write that down too and name the next step needed to resolve it. This avoids turning silence or a tentative suggestion into an assumed commitment.
+
+## Key insight 2 or counterpoint
+
+Keep actions specific and review them at the next meeting. “Investigate onboarding” is difficult to close; “compare the current onboarding steps with the approved checklist and report gaps” gives the owner a defined task. Link supporting documents rather than copying large blocks of background into the minutes.
+
+## Practical implications
+
+At the end of your next meeting, read back the decisions and action owners before everyone leaves. Correct misunderstandings while the participants are still present.
+
+## Conclusion and conversation prompt
+
+What is your best practice for making meeting outcomes easy to follow?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.

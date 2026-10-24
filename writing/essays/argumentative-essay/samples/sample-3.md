@@ -1,10 +1,35 @@
-# A new colleague
+# Online learning: argumentative essay
 
-**Prompt:** Discuss both views and give your opinion.
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
-Supporters of a new colleague emphasise flexibility and efficiency, while critics worry about quality and unequal access. Both arguments deserve consideration; a sensible approach should combine modern options with appropriate personal support.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Before writing
 
-In conclusion, a new colleague can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The essay takes a clear position, develops two distinct reasons, and addresses a reasonable opposing view.
 
----
+## Essay structure
+
+The argument moves from the claim to supporting reasoning and then to a qualified response.
+
+## Introduction and thesis
+
+Debate about online learning often centres on competing priorities. Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.
+
+## Main argument 1
+
+Online learning can make courses available to people who live far from educational institutions or have work and family responsibilities. Recorded materials can be revisited, and digital resources may support learners who need to study at different times.
+
+## Main argument 2
+
+It can also increase isolation and reduce immediate feedback. Learners need reliable internet, suitable devices, and a quiet place to study, so online access is not equally convenient for everyone. This shows why the policy should be designed around actual circumstances rather than treated as a simple universal rule.
+
+## Counterargument and response
+
+Some argue that online courses are inherently less effective because students lose classroom interaction. That risk is real for poorly designed courses, but it does not mean all online learning lacks discussion, practice, or feedback.
+
+## Conclusion
+
+Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.
+
+## Final IELTS checklist
+
+Check that each paragraph advances the argument, examples support the point, and the conclusion follows from the discussion. Follow the exact prompt and word limit.

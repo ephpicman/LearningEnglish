@@ -1,13 +1,29 @@
-# A missed project deadline
+# Meeting agenda: New request intake process
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+## Meeting metadata
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+- **Date:** 4 November 2026
+- **Chair / organiser:** Jordan Lee
+- **Attendees:** Jordan Lee, operations manager, two team leads
+- **Duration:** 30–45 minutes, to be confirmed
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+## Objective and desired outcomes
 
----
+Choose the required fields and agree how the team will handle urgent requests.
+
+## Agenda table
+
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Review context and current status | Establish shared facts | Jordan Lee | 5 min |
+| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
+| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
+| Assign actions | Name owners and due dates | All | 5 min |
+
+## Pre-reading / preparation
+
+Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+
+## Decisions required
+
+Pilot one intake queue for the facilities request category for four weeks. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.

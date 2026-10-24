@@ -1,12 +1,43 @@
-# A university course
+# Follow-up on the outstanding access approval
 
-**Subject:** Meeting and next steps
+*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
 
-Hello everyone,
+## Plan before drafting
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+The email has one clear purpose and identifies the action and timing required from the reader.
 
-Best regards,
-Alex Morgan
+## Email structure
 
----
+Keep the subject specific, put essential context before the request, and close with a clear next step.
+
+## Subject line
+
+Follow-up on the outstanding access approval
+
+## Greeting and purpose
+
+Hello Morgan, I am following up on the read-only access request for the monthly dashboard.
+
+## Essential context
+
+I submitted the request on Monday and need the dashboard to prepare the weekly summary.
+
+## Main message or request
+
+Could you confirm whether the request is awaiting your approval or whether another step is required? Read-only access is sufficient for the task.
+
+## Action, timing, or next step
+
+If possible, I would appreciate an update by Wednesday morning. If the approval needs to come from another owner, please let me know and I will contact them directly.
+
+## Closing and sign-off
+
+Thank you. Kind regards, Amira
+
+## Final checklist
+
+Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
+
+## IELTS-oriented language practice
+
+The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.

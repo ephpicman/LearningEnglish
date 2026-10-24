@@ -1,7 +1,19 @@
-# A university course
+# Learning works better when it includes practice
 
-**Context:** Publish a concise professional update about a university course.
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
-A practical lesson from a university course: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+Learning works better when it includes practice
+
+## Essential Information
+
+Pair a learning resource with a small task that uses the skill, then create an opportunity for feedback and revision. Course completion alone does not show whether someone can apply the idea.
+
+## Relevance or Takeaway
+
+Plan the practice step at the same time as the training.
+
+## Call to Action or Close
+
+What skill could your team practise this month?

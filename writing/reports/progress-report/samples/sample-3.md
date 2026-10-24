@@ -1,22 +1,46 @@
-# A new colleague
+# Progress report: data-quality improvement
 
-**To:** Operations Lead  
-**From:** Project Analyst  
-**Date:** 24 October 2026  
-**Subject:** A new colleague
+*Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
 
-## Purpose
-This report reviews the current position, identifies the main findings and recommends proportionate next steps.
+## Title and reporting metadata
 
-## Findings
-Initial feedback about a new colleague indicates that responsibilities are not always clear and updates are recorded inconsistently. These gaps make it difficult to compare performance or identify emerging risks. A shared process would reduce duplication and improve accountability.
+Reporting period: 1–30 June | Owner: Analytics team | Status: At risk due to source definitions
 
-## Recommendations
-1. Assign a named owner to each action.
-2. Record status, due date and evidence in one shared tracker.
-3. Review progress fortnightly and escalate overdue items.
+## Executive status summary
 
-## Conclusion
-Run a short pilot for one month. Compare completion rates, user feedback and administrative time before deciding whether to expand the approach.
+The team has completed an initial data-quality inventory and documented the main fields used in the monthly report. Progress is slower than planned because two source fields have different definitions across systems. The team should avoid merging the values until the owners agree on their meaning. The next phase focuses on resolving definitions and testing the proposed validation rules.
 
----
+## Objectives and scope
+
+Objective: improve consistency of the monthly reporting dataset. Scope includes field definitions, duplicate checks, and validation rules for selected tables. Rebuilding the reporting platform is not part of this work.
+
+## Work completed
+
+- Listed the fields used in the report.
+- Identified inconsistent date formats and duplicate identifiers.
+- Drafted proposed definitions for key categories.
+- Created a log of unresolved source questions.
+
+## Milestones, schedule, and budget
+
+Inventory: complete. Definition agreement: delayed. Validation prototype: waiting on definitions. Test review: not started. Budget and effort figures must be added from the approved project tracker before this report is finalised.
+
+## Risks, issues, and dependencies
+
+Risk: combining semantically different fields could produce misleading totals. Dependency: source owners must confirm definitions. Mitigation: keep the fields separate and label unresolved differences in interim analysis.
+
+## Next-period plan
+
+Hold a definition review with source owners, update the data dictionary, and test validation rules against a sample with known issues.
+
+## Decisions and support required
+
+The data owners are asked to confirm the definitions and identify who approves future changes. The project lead should agree whether the reporting deadline needs adjustment.
+
+## Final quality check
+
+Confirm that status agrees with the project tracker, dates and costs are current, and each risk has an owner or mitigation. Make clear where information is not yet confirmed rather than filling gaps with estimates.
+
+## IELTS-oriented language practice
+
+The report separates completed work from planned work and states risks directly. In a real workplace report, use the organisation’s agreed status definitions and do not imply that a milestone is complete before it is verified.

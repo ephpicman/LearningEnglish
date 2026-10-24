@@ -1,12 +1,23 @@
-# A university mentoring programme
+# Question about evening language classes
 
-**Subject:** Request to resolve a service issue
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
-Dear Customer Support Team,
+## Subject
 
-I am writing about a university mentoring programme. The service did not match the arrangements confirmed earlier, and my attempts to resolve the issue have not been successful. Please investigate and let me know whether a correction or refund is appropriate. I would appreciate an update within five working days.
+Question about evening language classes
 
-Kind regards,
-Alex Morgan
+## Greeting and context
 
----
+Hello Course Team, I am considering enrolling in your evening English course for the next term.
+
+## Questions
+
+Could you tell me which days the class meets, the expected class size, and whether students receive feedback on written assignments? I would also like to know whether a placement assessment is required.
+
+## Constraints
+
+I work until 5 p.m. on weekdays, so a start time after 6 p.m. would be easiest. I can attend in person or online, depending on the course format.
+
+## Response request and sign-off
+
+If possible, please send the current timetable and fee information. Thank you for your help. Kind regards, Noor

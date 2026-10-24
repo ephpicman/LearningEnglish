@@ -1,13 +1,39 @@
-# A university course
+# Cities should make walking safer before adding more roads
 
-**Audience:** General readers interested in a university course.
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
-# A university course: Small Changes, Lasting Results
+## Headline
 
-A university course shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+**Cities should make walking safer before adding more roads**
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Opening and issue framing
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+When traffic congestion grows, widening roads can seem like the most direct solution. But street design also determines whether people can safely walk to school, reach a shop, or use public transport without crossing dangerous junctions.
 
----
+## Clear position and reasoning map
+
+Urban transport plans should prioritise safe walking routes and reliable public transport alongside necessary road maintenance. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
+
+## Reason 1 with support
+
+Continuous pavements, safe crossings, lower speeds near schools, and accessible kerbs make short journeys possible for children, older residents, and people with mobility needs. These are not decorative additions; they connect homes with bus stops, services, and local businesses. A route is only useful when people can complete it safely from beginning to end.
+
+## Reason 2 with support
+
+Walking and public transport can also reduce the number of short car trips when alternatives are convenient. This will not remove the need for vehicles, deliveries, or emergency access, and outcomes depend on local geography. However, planning for several modes gives residents more options than a street designed primarily to move cars quickly.
+
+## Counterargument and response
+
+Some drivers argue that road changes make journeys slower or remove parking near shops. Those effects should be measured rather than dismissed. Cities can consult businesses, track loading access, and test designs temporarily before making permanent changes. The goal is to balance access, safety, and movement—not to punish a particular group of travellers.
+
+## Conclusion and implication
+
+Safer walking infrastructure is a practical investment in everyday mobility. Cities should assess routes from the pedestrian’s perspective, publish safety and access measures, and combine street improvements with dependable transport options.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

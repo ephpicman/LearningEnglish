@@ -1,12 +1,23 @@
-# A university course
+# Data quality review for monthly report
 
-**Subject:** Meeting and next steps
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
-Hello everyone,
+## Subject
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Data quality review for monthly report
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+The goal is to agree which data issues must be resolved before the monthly report is finalised and which limitations should be stated clearly.
+
+## Logistics
+
+Wednesday, 18 November, 11:00–11:40 a.m. Online meeting; agenda and data-quality log are linked in the invitation.
+
+## Agenda and preparation
+
+Please review the open items and mark any corrections with a source reference. We will discuss missing values, duplicate identifiers, unresolved definitions, and the owner for each decision. Do not share raw personal data in the meeting notes.
+
+## Confirmation and sign-off
+
+If you have an additional issue, add it to the log by Tuesday noon. Best regards, Daniel

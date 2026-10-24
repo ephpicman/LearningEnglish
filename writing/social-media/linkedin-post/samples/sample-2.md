@@ -1,7 +1,23 @@
-# A missed project deadline
+# Good documentation answers the question the reader has right now.
 
-**Context:** Publish a concise professional update about a missed project deadline.
+*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
 
-A practical lesson from a missed project deadline: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook
 
----
+Good documentation answers the question the reader has right now.
+
+## Main point
+
+Someone installing a tool needs prerequisites and a verified path. Someone facing an error needs symptoms, safe checks, and a recovery route. One long page rarely serves both moments equally well.
+
+## Support or experience
+
+I find it useful to ask a colleague unfamiliar with the task to follow the instructions while I stay quiet. Their pauses reveal assumptions the author no longer notices.
+
+## Practical takeaway
+
+Use task-based headings, show expected output where helpful, and put risky steps behind a clear warning.
+
+## Question or call to action
+
+Which documentation habit saves you the most time?

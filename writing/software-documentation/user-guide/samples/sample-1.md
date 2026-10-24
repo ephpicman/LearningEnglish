@@ -1,18 +1,36 @@
-# A university mentoring programme
+# User guide: submit an internal service request
 
-## Overview
-This guide explains how to use a university mentoring programme safely and consistently.
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
-## Before you begin
-Sign in with an authorised account and confirm that the required permissions are available.
+## Purpose and audience
 
-## Steps
-1. Open the relevant workspace.
-2. Select the resource you need.
-3. Enter the required details and review them.
-4. Save changes and check the confirmation message.
+This guide helps staff submit a routine internal service request and track its status. It is intended for employees who have access to the organisation’s request queue.
 
-## Troubleshooting
-If the update does not appear, refresh the page and check your permissions. When contacting support, include the timestamp and expected versus actual result, but never include credentials.
+## Prerequisites and access
 
----
+You need an active organisation account and permission to submit requests. Do not include passwords, authentication codes, or unnecessary personal information in the request description.
+
+## Concepts / interface overview
+
+A request has a unique ID, a status, an owner, and a next action. “Open” means it is awaiting work; “in progress” means an owner is handling it; “closed” means the work has been completed or the request has been resolved under the team’s policy. Use the status definitions shown in the actual interface.
+
+## Task-based procedure
+
+1. Open the approved internal request page.
+2. Choose the closest category.
+3. Enter a short, descriptive summary and the information needed to understand the issue.
+4. Attach only files permitted by policy.
+5. Submit the request and save the reference ID.
+6. Use the request page to check status or add relevant information.
+
+## Expected results and verification
+
+The request page should display a reference ID and current status. If no confirmation appears, check the request list before submitting again to avoid creating a duplicate.
+
+## Troubleshooting and limitations
+
+If you cannot see the request page, confirm that you are signed in with the correct account and have the required permission. If the request is urgent or safety-related, use the documented escalation route rather than relying on the normal queue.
+
+## Related tasks / next steps
+
+You can update the request with new information, review the status definitions, or contact the service owner if the request remains blocked beyond the published service window.

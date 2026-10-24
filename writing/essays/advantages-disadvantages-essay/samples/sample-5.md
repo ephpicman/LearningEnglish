@@ -1,10 +1,27 @@
-# A workplace policy
+# School uniforms: advantages disadvantages essay
 
-**Prompt:** Do the benefits outweigh the drawbacks?
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
-On balance, the benefits of a workplace policy outweigh the drawbacks when implementation is carefully managed. The risks can be reduced through transparent rules, fair access and regular evaluation. Change should be judged by outcomes, not intentions.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and paraphrase
 
-In conclusion, a workplace policy can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The growing use of school uniforms has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
 
----
+## Overall judgement if the prompt asks which side outweighs the other
+
+Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
+
+## Advantages
+
+Uniforms can reduce visible differences in everyday clothing and make the school dress code simpler to understand. They may also help students identify one another during school activities and reduce the time spent deciding what to wear.
+
+## Disadvantages
+
+Uniforms cost money, may be uncomfortable for some students, and do not remove deeper differences in income or social status. Strict rules can also create conflict when they fail to account for religion, disability, weather, or individual needs.
+
+## Evaluation if required
+
+The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Supporters argue that a uniform creates a sense of belonging and reduces competition over fashion. These benefits may occur in some schools, but they are not guaranteed by clothing rules alone.
+
+## Conclusion
+
+Overall, schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.

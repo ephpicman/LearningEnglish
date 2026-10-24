@@ -1,7 +1,19 @@
-# A university course
+# Reply to a professional post: You argue that feedback should always be direct and blunt.
 
-**Context:** Reply to a discussion about a university course.
+*Illustrative reply. Use only when it accurately responds to the original post.*
 
-A useful point. I’d add that a university course works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+You argue that feedback should always be direct and blunt.
+
+## Response and reasoning
+
+Directness is useful, but feedback is most effective when it is specific and respectful.
+
+## Added value
+
+Describe the observed behaviour, explain its effect, and agree on a next step. That keeps the conversation honest without turning it into a judgment about someone’s character.
+
+## Optional close
+
+How do you keep feedback clear without making it personal?

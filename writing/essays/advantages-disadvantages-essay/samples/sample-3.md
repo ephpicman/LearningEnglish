@@ -1,10 +1,27 @@
-# A new colleague
+# Online learning: advantages disadvantages essay
 
-**Prompt:** Discuss both views and give your opinion.
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
-Supporters of a new colleague emphasise flexibility and efficiency, while critics worry about quality and unequal access. Both arguments deserve consideration; a sensible approach should combine modern options with appropriate personal support.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and paraphrase
 
-In conclusion, a new colleague can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The growing use of online learning has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
 
----
+## Overall judgement if the prompt asks which side outweighs the other
+
+Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.
+
+## Advantages
+
+Online learning can make courses available to people who live far from educational institutions or have work and family responsibilities. Recorded materials can be revisited, and digital resources may support learners who need to study at different times.
+
+## Disadvantages
+
+It can also increase isolation and reduce immediate feedback. Learners need reliable internet, suitable devices, and a quiet place to study, so online access is not equally convenient for everyone.
+
+## Evaluation if required
+
+The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Some argue that online courses are inherently less effective because students lose classroom interaction. That risk is real for poorly designed courses, but it does not mean all online learning lacks discussion, practice, or feedback.
+
+## Conclusion
+
+Overall, online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.

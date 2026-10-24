@@ -1,18 +1,36 @@
-# A university course
+# User guide: join a scheduled online workshop
 
-## Overview
-This guide explains how to use a university course safely and consistently.
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
-## Before you begin
-Sign in with an authorised account and confirm that the required permissions are available.
+## Purpose and audience
 
-## Steps
-1. Open the relevant workspace.
-2. Select the resource you need.
-3. Enter the required details and review them.
-4. Save changes and check the confirmation message.
+This guide helps registered participants prepare for and join an online workshop. It covers the joining link, basic setup, and what to do if access fails.
 
-## Troubleshooting
-If the update does not appear, refresh the page and check your permissions. When contacting support, include the timestamp and expected versus actual result, but never include credentials.
+## Prerequisites and access
 
----
+Use the joining link from the latest confirmation message. Check whether the event requires a supported browser, application, or sign-in. Join from a quiet location if possible and use headphones if available.
+
+## Concepts / interface overview
+
+The meeting link opens the event room; the waiting room may hold participants until the organiser admits them. A display name helps the facilitator identify attendees. Follow the event’s privacy and recording notice.
+
+## Task-based procedure
+
+1. Open the latest confirmation message and check the event date and time zone.
+2. Test your internet connection and audio before the session.
+3. Open the joining link a few minutes early.
+4. Enter the requested display name and wait for admission if needed.
+5. Use the chat or raise-hand feature to ask a question.
+6. Follow the facilitator’s instructions for shared materials.
+
+## Expected results and verification
+
+You should see the event room or waiting screen and be able to hear the facilitator once admitted. If the session uses a separate workbook, open the approved link shared by the organiser.
+
+## Troubleshooting and limitations
+
+If the link fails, check the date, time zone, and latest confirmation. Try the supported browser or contact the organiser using the official contact route. Do not post private meeting links publicly.
+
+## Related tasks / next steps
+
+After the workshop, use the provided materials and feedback form. Contact the organiser if you need an accessible format or missed the session.

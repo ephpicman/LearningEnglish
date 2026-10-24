@@ -1,13 +1,39 @@
-# A new colleague
+# Write documentation for the moment of need
 
-**Audience:** General readers interested in a new colleague.
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
-# A new colleague: Small Changes, Lasting Results
+## Title
 
-A new colleague shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+**Write documentation for the moment of need**
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Opening hook and relevance
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+People rarely open documentation because they have spare time. They open it because they are trying to complete a task or recover from a problem.
 
----
+## Context and central argument
+
+That moment should shape how a guide is organised. A reader who is configuring a service needs prerequisites and a working path; someone responding to an error needs symptoms, likely causes, and safe diagnostic steps.
+
+## Key insight 1 with evidence
+
+Use headings that match the reader’s question, and put prerequisites before commands that depend on them. Include expected output where it helps a reader decide whether a step worked. If a command can change data or affect production, state the risk and recovery option before asking the reader to run it.
+
+## Key insight 2 or counterpoint
+
+Documentation also needs ownership. Version-specific instructions can become dangerous when a product changes, so identify the supported version and make it easy to report an outdated page. A short, accurate guide is more useful than a comprehensive page whose examples no longer run.
+
+## Practical implications
+
+Choose one frequently used guide and ask a colleague unfamiliar with the task to follow it. Watch where they hesitate, then revise those points instead of assuming the instructions are self-explanatory.
+
+## Conclusion and conversation prompt
+
+Which documentation detail saves you the most time when you are troubleshooting?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.

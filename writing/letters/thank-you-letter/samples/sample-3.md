@@ -1,14 +1,33 @@
-# A new colleague
+# Thank-you letter
 
-Dear Jamie,
+*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
 
-I am writing regarding a new colleague.
+## Plan first
 
-I wanted to thank you for your generous support. Your time and kindness made a difficult situation much easier, and I especially appreciated the care you took to ensure everything was organised.
+A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+Keep the tone warm and proportionate to the relationship.
 
----
+## Greeting and direct thanks
+
+Dear colleague,
+
+Thank you for organising the community clean-up and making new volunteers feel welcome.
+
+## Specific detail and impact
+
+The short briefing at the start helped everyone understand the safety guidance and where to take the collected materials. I especially appreciated that tasks were explained clearly for people who had not joined before.
+
+## Relationship or next step
+
+I would be happy to help again next month. Please let me know when the next date is confirmed.
+
+## Warm closing
+
+Thanks again for your effort and care. Best wishes, Farah
+
+## Final review
+
+Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.

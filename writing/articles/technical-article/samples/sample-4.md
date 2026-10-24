@@ -1,13 +1,25 @@
-# A university course
-
-**Audience:** General readers interested in a university course.
-
-# A university course: Small Changes, Lasting Results
-
-A university course shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
-
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
-
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
-
----
+# Validating CSV files before data ingestion
+*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
+## Summary
+CSV files look simple, but inconsistent headers, encoding, delimiters, missing values, and duplicate identifiers can corrupt downstream analysis. A validation step should detect predictable problems before ingestion while preserving the original file and explaining failures clearly. This article presents a layered validation approach. Exact rules should come from the receiving system’s schema and business requirements.
+## Scope and Prerequisites
+The intended reader builds a data pipeline that accepts CSV files from internal or external sources. The article assumes a tabular dataset with a known schema. It does not define rules for a specific domain, and sample field names are illustrative.
+## Core Concepts
+Syntactic validation checks whether the file can be parsed: encoding, delimiter, quoting, row shape, and headers. Schema validation checks required columns and expected types. Business validation checks domain rules such as allowed status values or unique identifiers. Keeping these layers separate helps the user understand whether a file is malformed, structurally incompatible, or logically invalid.
+Validation should be explicit about missing values. An empty string, a missing column, and a null-like token are not necessarily equivalent. Similarly, a date that parses successfully may still fall outside the allowed reporting period.
+## Architecture or Workflow
+Validation rules should be versioned alongside the schema that defines them. If a producer adds a new category, a strict validator may reject every file containing that value until the receiving system is updated. Conversely, silently accepting an unknown category may cause reports to omit it from totals. The data contract should describe how schema changes are announced and whether a transition period is supported.
+A safe pipeline preserves the source file, records its checksum or import ID, parses it using defined rules, and validates the parsed rows. It then produces a report of errors and warnings. Files with critical errors should not enter the target table; warning-only cases may be accepted if the policy allows them.
+The report should identify row and column where possible, describe the expected value, and avoid echoing sensitive data. Rejected files should have a clear correction and resubmission path.
+## Implementation Details
+A validation plan can include: required header check; duplicate header detection; row-width consistency; type parsing; required-field checks; allowed-value checks; duplicate business-key detection; and aggregate sanity checks. Define whether identifiers are case-sensitive and whether whitespace should be trimmed before comparison.
+Use a small known-good fixture and fixtures for each expected failure. The pipeline should return a clear status code or structured result so automated jobs can stop before loading invalid data. Avoid automatically “fixing” ambiguous values without recording the transformation.
+## Limitations and Operational Concerns
+Validation reports should be actionable. Group repeated failures where appropriate, show the first affected row and column, and state how to correct the source. Avoid printing the full rejected value when it could contain personal data. For large files, consider streaming validation and clear limits so the validator does not exhaust memory before it can report an error.
+Validation cannot establish that a source value is factually true; it can only check the rules provided. Strict rules may reject legitimate new categories, while permissive rules may allow bad data. Schema changes should be versioned and communicated to data producers.
+## Conclusion
+A final test should simulate a provider timeout after the provider may have accepted the operation. Confirm that the worker checks operation state or uses the provider’s idempotency mechanism before attempting the side effect again. This is one of the most important cases to document because the local process may not know whether the first attempt succeeded. Include the recovery decision in the operational runbook, along with instructions for pausing processing, inspecting the attempt history, and deciding when manual review is needed.
+Publish the validation contract alongside the data schema so that producers can correct files before submitting them. Include a small valid example and a separate example of common failures, using synthetic data. If a schema change is planned, communicate it before enforcement begins and provide a transition period when practical. This reduces avoidable rejections while preserving the ability to stop unsafe or misleading data from entering the pipeline.
+Validation should be designed around the receiving system’s contract rather than a generic idea of a well-formed spreadsheet. Define required columns, accepted types, null behaviour, allowed values, and business rules with the data owner. If an identifier is unique only within a reporting period, the validation key should reflect that; checking global uniqueness would reject valid records. Date rules should specify timezone and whether boundary dates are inclusive. These choices need to be documented so the same file is evaluated consistently across runs and environments.
+For larger inputs, stream rows through the parser and collect a bounded set of representative errors while maintaining total counts. This prevents a malformed file from exhausting memory or producing a report too large to review. Keep validation and transformation separate: if values are normalised, record the rule and make the transformation reproducible. A failed import should leave the target dataset unchanged unless partial acceptance is an explicit, approved behaviour. Tests should cover valid files, malformed quoting, duplicate headers, empty files, unexpected columns, encoding problems, and schema changes. Finally, monitor rejection reasons over time; recurring failures may indicate that the producer needs clearer documentation rather than that the validator should simply become more permissive.
+Reliable CSV ingestion combines parse checks, schema rules, domain validation, and a clear failure report. Preserve the original, make transformations traceable, and test both valid files and representative error cases.

@@ -1,7 +1,19 @@
-# A university mentoring programme
+# A small process improvement for this week
 
-**Context:** Publish a concise professional update about a university mentoring programme.
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
-A practical lesson from a university mentoring programme: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+A small process improvement for this week
+
+## Essential Information
+
+Choose one recurring handoff and write down the owner, next action, and expected date. Ask the receiving colleague whether those details are enough to continue without chasing context.
+
+## Relevance or Takeaway
+
+Clarity is often a better first step than adding another tool.
+
+## Call to Action or Close
+
+Try it on one workflow and review what changes.

@@ -1,14 +1,33 @@
-# A workplace policy
+# Thank-you letter
 
-Dear Jamie,
+*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
 
-I am writing regarding a workplace policy.
+## Plan first
 
-I wanted to thank you for your generous support. Your time and kindness made a difficult situation much easier, and I especially appreciated the care you took to ensure everything was organised.
+A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+Keep the tone warm and proportionate to the relationship.
 
----
+## Greeting and direct thanks
+
+Dear colleague,
+
+Thank you for your help resolving the scheduling issue at short notice.
+
+## Specific detail and impact
+
+You checked the room availability and sent an updated invitation before the participants arrived, which meant the session could proceed without further confusion.
+
+## Relationship or next step
+
+I have added the corrected room details to the shared event record so the team can refer to one current source next time.
+
+## Warm closing
+
+I appreciate your quick response and practical help. Best, Priya
+
+## Final review
+
+Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.

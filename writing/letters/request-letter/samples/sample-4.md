@@ -1,14 +1,26 @@
-# A university course
+# Request letter: Request for a workplace adjustment
+*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+## Plan first
+The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+## Letter structure
+Use the following sections to make the requested decision easy to understand.
+## Greeting and request purpose
+I am writing to request a discussion about adjusting the lighting and screen setup at my workstation.
 
-Dear Sir or Madam,
+## Context and justification
+The current arrangement causes discomfort during longer periods of screen work, and I would like to explore practical changes that may help me work more comfortably.
+## Specific request and scope
 
-I am writing regarding a university course.
+Possible options include reducing glare, changing the monitor position, or reviewing the available desk lighting. I am open to an assessment and do not assume that one particular solution is required.
 
-I am writing regarding a university course. I would like to explain the situation clearly, outline the relevant details and suggest a practical next step. I hope we can resolve the matter fairly and maintain a positive relationship.
+## Supporting information and flexibility
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+Please let me know the appropriate process and whether an occupational assessment or additional information is needed. I would appreciate a meeting within the next two weeks if possible.
 
-Yours faithfully,
-Alex Morgan
+## Timing and closing
 
----
+Thank you for considering this request. Yours sincerely.
+Priya Nair
+
+## Final review
+Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.

@@ -1,12 +1,23 @@
-# A university course
+# Question about warranty coverage
 
-**Subject:** Meeting and next steps
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
-Hello everyone,
+## Subject
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Question about warranty coverage
 
-Best regards,
-Alex Morgan
+## Greeting and context
 
----
+Hello Support Team, I would like to understand the warranty terms for a desk lamp purchased from your online store.
+
+## Questions
+
+Does the warranty cover a switch that intermittently fails to turn the lamp on? What proof of purchase and product details would you need to assess the issue?
+
+## Constraints
+
+The lamp was purchased about eight months ago, and I can provide the order confirmation. I have not opened or attempted to repair the unit.
+
+## Response request and sign-off
+
+Please let me know the correct process before I return the product. Thank you, Sam

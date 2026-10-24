@@ -1,12 +1,23 @@
-# A missed project deadline
+# Weekly support review — recurring issues
 
-**Subject:** Following up on our discussion
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
-Hello Priya,
+## Subject
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+Weekly support review — recurring issues
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+We will review the most common support issues from the past week and decide which need documentation changes or escalation.
+
+## Logistics
+
+Thursday, 12 November, 2:00–2:30 p.m. Online meeting; link is in the calendar event.
+
+## Agenda and preparation
+
+Please bring one example of a recurring question, with personal or customer-identifying details removed. Proposed agenda: review patterns, confirm priority, assign a documentation owner, and agree how we will check whether the change helped.
+
+## Confirmation and sign-off
+
+If you cannot attend, please send your example and any suggested action by Wednesday afternoon. Regards, Priya

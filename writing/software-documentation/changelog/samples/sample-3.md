@@ -1,18 +1,34 @@
-# A new colleague
+# Changelog — 3.0.0
 
-## [1.4.0] — 2026-10-20
+*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
 
-### Added
-- Added improved support for a new colleague.
-- Added clearer status feedback for users.
+## Version and date
 
-### Changed
-- Improved validation messages and loading states.
+- **Version:** 3.0.0
+- **Date:** 2026-04-29
 
-### Fixed
-- Fixed a pagination issue that could repeat the final item.
+## Added
 
-### Upgrade notes
-No migration is required. If the previous interface remains visible, refresh the browser after deployment.
+- Added a new configuration command that prints the resolved non-secret settings used by the application.
 
----
+## Changed
+
+- Changed the default configuration file location to the user-specific application directory.
+- Updated the command output to use stable field names for scripting.
+
+## Fixed
+
+- Fixed inconsistent exit codes for invalid command-line arguments.
+
+## Deprecated and removed
+
+- The legacy `--config-path` alias is removed in this illustrative major release. Use `--config` instead.
+- Scripts relying on the previous default path must be updated.
+
+## Security
+
+- The diagnostic command omits values marked as secrets, but users should review the output before sharing it.
+
+## Final quality check
+
+Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.

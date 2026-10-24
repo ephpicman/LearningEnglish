@@ -1,13 +1,36 @@
-# A new colleague
+# Troubleshooting: export file is empty
 
-## Problem: The service will not start
+*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
 
-**Symptoms:** The process exits or reports a connection error.
+## Scope and prerequisites
 
-**Likely causes:** Missing environment variables, an unavailable database or an unsupported runtime version.
+Use this guide when a report export completes but contains no rows. You need permission to view the report and the filter settings used for the export.
 
-**Resolution:** Check the supported runtime, verify required keys in `.env`, and test database connectivity. Restart the service and inspect the first error in the logs.
+## Symptoms and error identifiers
 
-**Escalation:** Share the version, timestamp and redacted error message. Never send passwords or access tokens.
+- Downloaded CSV contains only a header row.
+- The interface shows zero matching records.
+- The preview and downloaded file appear to disagree.
 
----
+## Quick checks
+
+1. Check the selected date range and filters.
+2. Confirm the intended columns and dataset.
+3. Compare the visible row count with the export preview.
+4. Check whether the report data has refreshed.
+
+## Diagnostic decision steps
+
+Clear optional filters one at a time to identify whether a filter removes all rows. Confirm the user has permission to view the expected records. If the preview shows rows but the file does not, capture the export ID and check whether generation completed successfully.
+
+## Cause-specific fixes
+
+Correct the filter or date range if it was entered incorrectly. If the source data has not refreshed, follow the report owner’s refresh process. If preview and export differ under the same settings, do not repeatedly export sensitive data; escalate with the export ID.
+
+## Verification and prevention
+
+Run the export again with the confirmed filters and compare its row count with the preview. Check a small number of non-sensitive records against the source report.
+
+## Escalation details to collect
+
+Provide report name, export ID, time, selected filters, preview row count, downloaded row count, and any error message. Redact data values and credentials.

@@ -1,10 +1,27 @@
-# A university course
+# Urban green spaces: advantages disadvantages essay
 
-**Prompt:** What problems arise, and how could they be solved?
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
-Improving a university course requires coordinated action rather than a single quick fix. Public bodies should set standards and provide essential infrastructure, organisations should monitor results, and individuals should have accessible ways to contribute.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and paraphrase
 
-In conclusion, a university course can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+The growing use of urban green spaces has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
 
----
+## Overall judgement if the prompt asks which side outweighs the other
+
+I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
+
+## Advantages
+
+Parks give residents places to walk, exercise, meet neighbours, and spend time outdoors. Trees and planted areas can also provide shade and improve the experience of streets, especially where public space is otherwise dominated by traffic and hard surfaces.
+
+## Disadvantages
+
+Urban land is limited, and cities also need housing, schools, transport, and commercial space. A poorly located or poorly maintained park may not serve the residents who need it most.
+
+## Evaluation if required
+
+The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. The need for housing is a serious objection, especially in areas with high rents. However, green space and housing are not always mutually exclusive: small parks, green corridors, and shared courtyards can be incorporated into denser development.
+
+## Conclusion
+
+Overall, i largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.

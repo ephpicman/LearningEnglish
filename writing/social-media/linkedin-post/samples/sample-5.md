@@ -1,7 +1,23 @@
-# A workplace policy
+# Clear communication includes saying what is not yet known.
 
-**Context:** Publish a concise professional update about a workplace policy.
+*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
 
-A practical lesson from a workplace policy: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook
 
----
+Clear communication includes saying what is not yet known.
+
+## Main point
+
+A confident update can sound reassuring while hiding an unresolved dependency. Readers need to know what is confirmed, what is assumed, and when the next update will arrive.
+
+## Support or experience
+
+Separating confirmed facts from open questions helps teams make proportionate decisions. It also prevents a tentative estimate from being repeated as a promise.
+
+## Practical takeaway
+
+In your next status update, label the risk, owner, next action, and review date—and avoid inventing certainty to make the update sound polished.
+
+## Question or call to action
+
+How do you communicate uncertainty without creating confusion?

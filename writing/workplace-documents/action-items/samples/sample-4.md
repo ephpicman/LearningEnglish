@@ -1,11 +1,23 @@
-# A university course
+# Action items: Staff training schedule
+
+## Context / source meeting
+
+**Date:** 9 November 2026  
+**Meeting:** Staff training schedule  
+**Purpose:** Confirm a training schedule that gives shift-based staff a fair opportunity to attend.
+
+## Action-item table
 
 | Action | Owner | Due date | Status |
 |---|---|---|---|
-| Confirm pilot scope | Riley Chen | 27 Oct 2026 | In progress |
-| Update user guidance | Alex Morgan | 28 Oct 2026 | Not started |
-| Validate baseline metrics | Sam Patel | 30 Oct 2026 | In progress |
+| Propose times | Amira Hassan | 11 November | Open |
+| Confirm staff coverage | team managers | 13 November | Open |
+| Approve recap | learning lead | 16 November | Open |
 
-**Escalation:** Raise any deadline risk with the owner and project lead at least one working day in advance.
+## Risks or dependencies if needed
 
----
+Repeating the same session at different times may improve access, although it increases facilitator time. A recorded recap may help, subject to internal policy and accessibility requirements.
+
+## Review date / escalation if needed
+
+Schedule confirmation meeting: 17 November. Escalate overdue items to Amira Hassan and update the owner and due date rather than leaving the action without a status.

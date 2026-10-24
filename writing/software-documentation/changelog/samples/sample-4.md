@@ -1,18 +1,33 @@
-# A university course
+# Changelog — 0.9.2
 
-## [1.4.0] — 2026-10-20
+*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
 
-### Added
-- Added improved support for a university course.
-- Added clearer status feedback for users.
+## Version and date
 
-### Changed
-- Improved validation messages and loading states.
+- **Version:** 0.9.2
+- **Date:** 2026-05-14
 
-### Fixed
-- Fixed a pagination issue that could repeat the final item.
+## Added
 
-### Upgrade notes
-No migration is required. If the previous interface remains visible, refresh the browser after deployment.
+- Added a retry option for transient connection failures, disabled by default.
 
----
+## Changed
+
+- Updated the troubleshooting section to explain how to distinguish authentication failures from network timeouts.
+
+## Fixed
+
+- Fixed a retry loop that could continue after the configured attempt limit.
+- Fixed a message that incorrectly suggested credentials were invalid for every connection error.
+
+## Deprecated and removed
+
+- No deprecations or removals in this illustrative release.
+
+## Security
+
+- Retry behaviour should be reviewed for the target service to avoid excessive request volume. No security certification is implied.
+
+## Final quality check
+
+Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.

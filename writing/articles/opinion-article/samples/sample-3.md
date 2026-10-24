@@ -1,13 +1,39 @@
-# A new colleague
+# A four-day workweek deserves careful trials
 
-**Audience:** General readers interested in a new colleague.
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
-# A new colleague: Small Changes, Lasting Results
+## Headline
 
-A new colleague shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+**A four-day workweek deserves careful trials**
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Opening and issue framing
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+The idea of working four days for the same pay attracts attention because it promises more time outside work without sacrificing output. Yet the result depends on how a workplace is organised, not simply on deleting Friday from the calendar.
 
----
+## Clear position and reasoning map
+
+Employers should test shorter workweeks where the work can be redesigned and measured, rather than adopting or rejecting the model as a universal rule. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
+
+## Reason 1 with support
+
+A well-planned trial can expose low-value meetings, repeated approvals, and unclear priorities. Teams may protect focused work time and agree on response expectations, allowing them to complete essential tasks with fewer interruptions. Measures should include quality, customer response, workload, and employee wellbeing—not just hours logged.
+
+## Reason 2 with support
+
+A trial also gives managers a chance to discover where the model does not fit. A hospital ward, retail counter, or customer-support team still needs coverage at particular times. In those settings, a shorter week may require additional staffing, staggered schedules, or a different policy rather than the same arrangement used by an office team.
+
+## Counterargument and response
+
+Opponents reasonably note that compressed schedules can intensify work and make employees feel obliged to be available after hours. This risk is real if targets remain unchanged while the time available shrinks. The answer is to set boundaries, monitor workload, and stop or redesign the trial when service quality or staff health worsens.
+
+## Conclusion and implication
+
+A four-day workweek is best treated as an organisational experiment with clear safeguards. Employers should publish the measures they will use, consult staff, and report both benefits and trade-offs before deciding whether the model should continue.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

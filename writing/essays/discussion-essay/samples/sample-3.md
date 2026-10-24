@@ -1,10 +1,33 @@
-# A new colleague
+# Online learning: discussion essay
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+## Before writing
+Present both views fairly before giving a personal position only if the prompt asks for one.
+## Essay structure
 
-**Prompt:** Discuss both views and give your opinion.
+Each viewpoint is developed with reasoning, followed by a balanced conclusion.
 
-Supporters of a new colleague emphasise flexibility and efficiency, while critics worry about quality and unequal access. Both arguments deserve consideration; a sensible approach should combine modern options with appropriate personal support.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction and issue framing
 
-In conclusion, a new colleague can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+There are differing views about online learning. The debate reflects different priorities, and both positions have arguments that deserve consideration.
 
----
+## Viewpoint 1 and reasoning
+
+Supporters say online learning increases flexibility and can widen access for people who cannot attend a campus regularly.
+
+## Viewpoint 2 and reasoning
+
+Course design changes the balance between these views. A well-run online course can include live discussion, peer feedback, and supervised practice, while a poorly organised classroom course can still leave students passive. However, online learners need reliable access and may require additional support to stay engaged. The format should be chosen around the learning outcome rather than novelty.
+
+Critics argue that online learners may feel isolated, struggle with motivation, or miss practical activities that are easier to supervise in person.
+
+## Your opinion (only if requested)
+
+I see online learning as a valuable option, but not a universal replacement for classroom teaching. Institutions should choose formats according to the subject and learners’ needs.
+
+## Conclusion
+
+Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
+
+## Final IELTS checklist
+
+Check that both viewpoints receive adequate development and that your own opinion is included only when requested.

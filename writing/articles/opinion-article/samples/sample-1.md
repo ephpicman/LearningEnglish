@@ -1,13 +1,39 @@
-# A university mentoring programme
+# Why public libraries still matter in a digital age
 
-**Audience:** General readers interested in a university mentoring programme.
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
-# A university mentoring programme: Small Changes, Lasting Results
+## Headline
 
-A university mentoring programme shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+**Why public libraries still matter in a digital age**
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Opening and issue framing
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+A search engine can return thousands of results in seconds, yet finding a trustworthy answer is not always simple. Public libraries remain valuable because they offer more than shelves of books: they provide guided access to information, quiet study space, and help for people who cannot rely on a stable home connection.
 
----
+## Clear position and reasoning map
+
+Local governments should treat libraries as essential civic infrastructure and modernise them rather than measure their value only by book loans. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
+
+## Reason 1 with support
+
+First, libraries help people navigate information. Librarians can guide visitors toward credible sources, databases, and research methods, while library programmes help children practise reading and adults develop digital skills. These services are particularly useful when a person needs to compare sources rather than accept the first result online.
+
+## Reason 2 with support
+
+Second, a library is a shared place that does not require a purchase. Students can study, jobseekers can use computers, and residents can attend language or community sessions. Such access does not solve poverty or the digital divide on its own, but it gives people a practical resource they can use without paying for a seat or a drink.
+
+## Counterargument and response
+
+Critics may argue that online collections make physical branches expensive and outdated. Digital services are important, but they do not replace quiet public space, accessible devices, personal guidance, or the social value of a shared institution. The sensible response is to review local needs and combine in-person services with digital collections, not assume that one format serves everyone.
+
+## Conclusion and implication
+
+Libraries should evolve with their communities: maintain useful print and digital collections, teach information skills, and design services around local needs. Their success should be judged by the access and learning they enable, not by a single measure such as visitor counts.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

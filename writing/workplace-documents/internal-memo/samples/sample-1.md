@@ -1,17 +1,46 @@
-# A university mentoring programme
+# Internal memo: Portal launch readiness
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A university mentoring programme
+*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a university mentoring programme remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+The memo states the purpose and requested action, then gives enough context for a decision.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document structure
 
----
+Keep the analysis proportionate to the decision being requested.
+
+## Memo header
+
+- **To:** Relevant team leads
+- **From:** Morgan Chen
+- **Date:** 12 November 2026
+- **Subject:** Portal launch readiness
+
+## Purpose and requested action
+
+Confirm whether the account portal is ready for the planned release window. The requested action is to approve the recommendation below or identify what additional information is needed.
+
+## Background and facts
+
+The navigation and content review are complete. Accessibility testing and one authentication dependency remain open, so the release date is not yet confirmed.
+
+## Analysis or key points
+
+Proceeding before the dependency and accessibility checks pass could create avoidable user problems. Moving the date may affect the communications plan, but the risk is visible early enough to manage.
+
+## Recommendation or decision
+
+Keep the release gated on the two open checks and confirm the decision at the next readiness review.
+
+## Actions, owners, and timing
+
+Morgan: obtain authentication status by 5 November. Priya: complete accessibility review by 6 November. Release lead: update the schedule after both checks.
+
+## Final quality check
+
+Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+
+## IELTS-oriented language practice
+
+The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.

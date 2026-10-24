@@ -1,14 +1,26 @@
-# A university mentoring programme
+# Request letter: Request to borrow the community hall
+*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+## Plan first
+The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+## Letter structure
+Use the following sections to make the requested decision easy to understand.
+## Greeting and request purpose
+I am writing to ask whether the community hall could be reserved for a neighbourhood book exchange on Saturday, 21 November.
 
-Dear Sir or Madam,
+## Context and justification
+The event would allow residents to bring books they no longer need and take others home. We expect a modest gathering and would organise volunteers to keep the entrance and walkways clear.
+## Specific request and scope
 
-I am writing regarding a university mentoring programme.
+Could we use the main room from 10 a.m. to 2 p.m., including time for setup and tidying? We would need tables, chairs, and access to the recycling area. We would not require catering or audio equipment.
 
-I am writing regarding a university mentoring programme. I would like to explain the situation clearly, outline the relevant details and suggest a practical next step. I hope we can resolve the matter fairly and maintain a positive relationship.
+## Supporting information and flexibility
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+We can follow the hall’s safety and booking rules and provide a named event contact. If the proposed date is unavailable, the following Saturday would also work.
 
-Yours faithfully,
-Alex Morgan
+## Timing and closing
 
----
+Please let me know the booking process and any fee or deposit. Thank you for considering the request.
+Jordan Lee
+
+## Final review
+Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.

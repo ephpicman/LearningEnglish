@@ -1,12 +1,23 @@
-# A workplace policy
+# Enquiry about volunteering opportunities
 
-**Subject:** Thank you for your support
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
-Dear Jordan,
+## Subject
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+Enquiry about volunteering opportunities
 
-Best regards,
-Alex Morgan
+## Greeting and context
 
----
+Dear Volunteer Coordinator, I am interested in helping with your weekend community food programme.
+
+## Questions
+
+Could you tell me what tasks volunteers usually perform, whether induction is required, and how shifts are scheduled? I would also like to know if there are age or training requirements.
+
+## Constraints
+
+I am generally available on Saturday mornings twice a month and can attend an induction on a weekday evening with notice.
+
+## Response request and sign-off
+
+I would be grateful for the current volunteer information and next steps. Best wishes, Farah
